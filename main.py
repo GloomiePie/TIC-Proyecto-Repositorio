@@ -1,6 +1,7 @@
 import requests
 import fitz  # PyMuPDF
 from io import BytesIO
+import os
 
 # === CONFIGURACIÓN ===
 # Repositorio: usuario/repositorio
@@ -8,6 +9,10 @@ USER = "GloomiePie"
 REPO = "TIC-Proyecto-Repositorio"
 BRANCH = "corpus-juridico"
 PATH = "corpus juridico/Sentencias Penales"  # Carpeta dentro del repo
+
+# Carpeta donde se guardarán los textos procesados
+CARPETA_TEXTOS = "textos"
+os.makedirs(CARPETA_TEXTOS, exist_ok=True)
 
 def listar_pdfs_en_github(user: str, repo: str, branch: str, path: str):
     """
@@ -48,10 +53,10 @@ if __name__ == "__main__":
         print(f"Procesando: {url}")
         texto = pdf_a_texto_desde_url(url)
 
-        # Guardar en un archivo .txt con el mismo nombre
+        # Guardar en la carpeta textos con el mismo nombre del PDF
         nombre_archivo = url.split("/")[-1].replace(".pdf", ".txt")
-        with open(nombre_archivo, "w", encoding="utf-8") as f:
+        ruta_salida = os.path.join(CARPETA_TEXTOS, nombre_archivo)
+        with open(ruta_salida, "w", encoding="utf-8") as f:
             f.write(texto)
 
-        print(f"✅ Guardado texto en {nombre_archivo}\n")
-
+        print(f"✅ Guardado texto en {ruta_salida}\n")
