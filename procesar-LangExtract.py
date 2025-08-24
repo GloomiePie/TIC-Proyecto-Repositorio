@@ -4,7 +4,7 @@ import json
 from langextract.resolver import ResolverParsingError
 import langextract as lx
 
-os.environ["LANGEXTRACT_API_KEY"] = "AIzaSyCpkeB9wMIuTmx0h5E0cI_Vr9hMOeDWcaw"
+os.environ["LANGEXTRACT_API_KEY"] = "API_KEY"
 USE_OLLAMA = False
 
 # Carpetas
@@ -177,4 +177,5 @@ def main():
         process_file(in_path, out_base)
 
 if __name__ == "__main__":
+
     main()
