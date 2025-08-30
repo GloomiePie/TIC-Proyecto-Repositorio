@@ -1,0 +1,90 @@
+[FECHA]
+- 18 de diciembre de 2018
+- 23 de noviembre de 2001
+- 4 de enero de 2019
+
+[ARTICULO_LEGAL]
+- Art. 195
+- Art. 232
+- Art. 522
+- Art. 635
+- Art. 14
+- Art. 168
+- Art. 76
+- Artículo 225
+- Art. 232 del COIP
+- art. 2
+- art. 3
+- art. 4
+- art. 5
+- art. 6
+- art. 7
+- art. 8
+- art. 9
+- art. 10
+- artículo 2
+- artículo 1
+- artículo 615
+- Art. 42
+- Artículo 70 del COIP
+- artículo 232 del COIP
+- artículo 78
+- artículo 622
+- artículo 628 del COIP
+- Art. 64
+- Art. 60
+
+[NUMERO_CAUSA]
+- No. 17282
+- No. 130130
+
+[ORG]
+- UNIDAD JUDICIAL
+- Fiscalía
+- Instituto
+- Seguridad Social
+- DIRECCIÓN
+- CONSEJO DE LA JUDICATURA
+- juzgado
+- Distrito Metropolitano
+- Función Judicial
+- El Juzgador
+- Maribel Cortez Estrella
+- María Belén Cortez
+- Marcelo Javier Salas Bajaña
+
+[OTRO]
+- Juicio No
+- Garantías Penales
+- Infracciones Flagrantes
+- El Jurista
+- El Convenio
+- Estados Parte
+- Los Estados Parte
+- Los Estados
+- En Alemania
+- Parte Informativo
+- Audiencia Pública
+- La Pena
+- Estado Constitucional
+
+[PERSONA]
+- Código Orgánico Integral Penal
+- Procedimiento Abreviado
+- Código Orgánico
+- Simón Valdivieso Vintimilla
+- Índice Analítico
+- Procedimiento Penal Ecuatoriano
+- Mir Puig
+- Marco Vinicio Sandoval
+- Edison German Vergara Brito
+- Sub Director Nacional
+- Daniel Paolo Rivadeneira Zambrano
+- Roció Yépez Guillem
+- Ortiz Santillán
+- Grace Alexandra Vásquez Quishpe
+- Johanna Valeria Zambrano
+- Santiago Andrés Andrade
+- Luis Alberto Segarra Pacheco
+- María José Rivadeneira Domínguez
+

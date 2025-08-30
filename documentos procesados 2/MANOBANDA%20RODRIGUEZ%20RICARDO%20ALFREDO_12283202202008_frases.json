@@ -1,0 +1,926 @@
+[
+  {
+    "text": "ADMINISTRANDO JUSTICIA EN NOMBRE DEL PUEBLO SOBERANO DEL ECUADOR Y POR AUTORIDAD DE LA CONSTITUCIÓN Y LEYES DE LA REPÚBLICA, declara la culpabilidad del procesado Cegido Arévalo Mo",
+    "type": "FORMULA_JUDICIAL",
+    "start": 33368,
+    "end": 33548,
+    "normalized": "administrando justicia en nombre del pueblo soberano del ecuador y por autoridad de la constitucion y leyes de la republica, declara la culpabilidad del procesado cegido arevalo mo"
+  },
+  {
+    "text": "26 de noviembre de 2022",
+    "type": "FECHA",
+    "start": 57602,
+    "end": 57625,
+    "normalized": "26 de noviembre de 2022"
+  },
+  {
+    "text": "25/05/2023",
+    "type": "FECHA",
+    "start": 370,
+    "end": 380,
+    "normalized": "25/05/2023"
+  },
+  {
+    "text": "27/02/2023",
+    "type": "FECHA",
+    "start": 628,
+    "end": 638,
+    "normalized": "27/02/2023"
+  },
+  {
+    "text": "25/11/2022",
+    "type": "FECHA",
+    "start": 1954,
+    "end": 1964,
+    "normalized": "25/11/2022"
+  },
+  {
+    "text": "17/01/2023",
+    "type": "FECHA",
+    "start": 1998,
+    "end": 2008,
+    "normalized": "17/01/2023"
+  },
+  {
+    "text": "25/01/2023",
+    "type": "FECHA",
+    "start": 2771,
+    "end": 2781,
+    "normalized": "25/01/2023"
+  },
+  {
+    "text": "23/01/2023",
+    "type": "FECHA",
+    "start": 4879,
+    "end": 4889,
+    "normalized": "23/01/2023"
+  },
+  {
+    "text": "11/01/2023",
+    "type": "FECHA",
+    "start": 35411,
+    "end": 35421,
+    "normalized": "11/01/2023"
+  },
+  {
+    "text": "30/12/2022",
+    "type": "FECHA",
+    "start": 36421,
+    "end": 36431,
+    "normalized": "30/12/2022"
+  },
+  {
+    "text": "29/12/2022",
+    "type": "FECHA",
+    "start": 38365,
+    "end": 38375,
+    "normalized": "29/12/2022"
+  },
+  {
+    "text": "19/12/2022",
+    "type": "FECHA",
+    "start": 41339,
+    "end": 41349,
+    "normalized": "19/12/2022"
+  },
+  {
+    "text": "13/12/2022",
+    "type": "FECHA",
+    "start": 45127,
+    "end": 45137,
+    "normalized": "13/12/2022"
+  },
+  {
+    "text": "12/12/2022",
+    "type": "FECHA",
+    "start": 50796,
+    "end": 50806,
+    "normalized": "12/12/2022"
+  },
+  {
+    "text": "02/12/2022",
+    "type": "FECHA",
+    "start": 50843,
+    "end": 50853,
+    "normalized": "02/12/2022"
+  },
+  {
+    "text": "01/12/2022",
+    "type": "FECHA",
+    "start": 53263,
+    "end": 53273,
+    "normalized": "01/12/2022"
+  },
+  {
+    "text": "29/11/2022",
+    "type": "FECHA",
+    "start": 53480,
+    "end": 53490,
+    "normalized": "29/11/2022"
+  },
+  {
+    "text": "28/11/2022",
+    "type": "FECHA",
+    "start": 53537,
+    "end": 53547,
+    "normalized": "28/11/2022"
+  },
+  {
+    "text": "26/11/2022",
+    "type": "FECHA",
+    "start": 53669,
+    "end": 53679,
+    "normalized": "26/11/2022"
+  },
+  {
+    "text": "ART. 202",
+    "type": "ARTICULO_LEGAL",
+    "start": 817,
+    "end": 825,
+    "normalized": "art. 202"
+  },
+  {
+    "text": "Art. 56 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 1699,
+    "end": 1715,
+    "normalized": "art. 56 del coip"
+  },
+  {
+    "text": "Art. 621",
+    "type": "ARTICULO_LEGAL",
+    "start": 7675,
+    "end": 7683,
+    "normalized": "art. 621"
+  },
+  {
+    "text": "Art. 75",
+    "type": "ARTICULO_LEGAL",
+    "start": 8001,
+    "end": 8008,
+    "normalized": "art. 75"
+  },
+  {
+    "text": "Art. 224",
+    "type": "ARTICULO_LEGAL",
+    "start": 8418,
+    "end": 8426,
+    "normalized": "art. 224"
+  },
+  {
+    "text": "Art. 635",
+    "type": "ARTICULO_LEGAL",
+    "start": 9014,
+    "end": 9022,
+    "normalized": "art. 635"
+  },
+  {
+    "text": "Art. 455",
+    "type": "ARTICULO_LEGAL",
+    "start": 9929,
+    "end": 9937,
+    "normalized": "art. 455"
+  },
+  {
+    "text": "ART. 637 DEL COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 10312,
+    "end": 10329,
+    "normalized": "art. 637 del coip"
+  },
+  {
+    "text": "art. 637",
+    "type": "ARTICULO_LEGAL",
+    "start": 11471,
+    "end": 11479,
+    "normalized": "art. 637"
+  },
+  {
+    "text": "Art. 76",
+    "type": "ARTICULO_LEGAL",
+    "start": 15349,
+    "end": 15356,
+    "normalized": "art. 76"
+  },
+  {
+    "text": "Art. 168",
+    "type": "ARTICULO_LEGAL",
+    "start": 16368,
+    "end": 16376,
+    "normalized": "art. 168"
+  },
+  {
+    "text": "Art. 319",
+    "type": "ARTICULO_LEGAL",
+    "start": 16845,
+    "end": 16853,
+    "normalized": "art. 319"
+  },
+  {
+    "text": "Art. 610",
+    "type": "ARTICULO_LEGAL",
+    "start": 17212,
+    "end": 17220,
+    "normalized": "art. 610"
+  },
+  {
+    "text": "Art. 34",
+    "type": "ARTICULO_LEGAL",
+    "start": 18707,
+    "end": 18714,
+    "normalized": "art. 34"
+  },
+  {
+    "text": "Art. 636",
+    "type": "ARTICULO_LEGAL",
+    "start": 21463,
+    "end": 21471,
+    "normalized": "art. 636"
+  },
+  {
+    "text": "Art. 5",
+    "type": "ARTICULO_LEGAL",
+    "start": 23570,
+    "end": 23576,
+    "normalized": "art. 5"
+  },
+  {
+    "text": "Art. 169",
+    "type": "ARTICULO_LEGAL",
+    "start": 25152,
+    "end": 25160,
+    "normalized": "art. 169"
+  },
+  {
+    "text": "Art. 8",
+    "type": "ARTICULO_LEGAL",
+    "start": 25716,
+    "end": 25722,
+    "normalized": "art. 8"
+  },
+  {
+    "text": "artículo 76",
+    "type": "ARTICULO_LEGAL",
+    "start": 26414,
+    "end": 26425,
+    "normalized": "articulo 76"
+  },
+  {
+    "text": "artículo 82",
+    "type": "ARTICULO_LEGAL",
+    "start": 27157,
+    "end": 27168,
+    "normalized": "articulo 82"
+  },
+  {
+    "text": "artículo 453",
+    "type": "ARTICULO_LEGAL",
+    "start": 28569,
+    "end": 28581,
+    "normalized": "articulo 453"
+  },
+  {
+    "text": "artículo 168",
+    "type": "ARTICULO_LEGAL",
+    "start": 29434,
+    "end": 29446,
+    "normalized": "articulo 168"
+  },
+  {
+    "text": "Art. 457",
+    "type": "ARTICULO_LEGAL",
+    "start": 29571,
+    "end": 29579,
+    "normalized": "art. 457"
+  },
+  {
+    "text": "Art. 70",
+    "type": "ARTICULO_LEGAL",
+    "start": 34272,
+    "end": 34279,
+    "normalized": "art. 70"
+  },
+  {
+    "text": "Art. 68",
+    "type": "ARTICULO_LEGAL",
+    "start": 34872,
+    "end": 34879,
+    "normalized": "art. 68"
+  },
+  {
+    "text": "Art. 78",
+    "type": "ARTICULO_LEGAL",
+    "start": 35089,
+    "end": 35096,
+    "normalized": "art. 78"
+  },
+  {
+    "text": "ART. 635 DEL COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 38968,
+    "end": 38985,
+    "normalized": "art. 635 del coip"
+  },
+  {
+    "text": "ART. 619 DEL COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 39203,
+    "end": 39220,
+    "normalized": "art. 619 del coip"
+  },
+  {
+    "text": "ART. 202 DEL COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 40493,
+    "end": 40510,
+    "normalized": "art. 202 del coip"
+  },
+  {
+    "text": "Art. 360",
+    "type": "ARTICULO_LEGAL",
+    "start": 42245,
+    "end": 42253,
+    "normalized": "art. 360"
+  },
+  {
+    "text": "Art. 640",
+    "type": "ARTICULO_LEGAL",
+    "start": 52168,
+    "end": 52176,
+    "normalized": "art. 640"
+  },
+  {
+    "text": "ART. 527 DEL COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 53925,
+    "end": 53942,
+    "normalized": "art. 527 del coip"
+  },
+  {
+    "text": "ART. 534 DEL COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 55065,
+    "end": 55082,
+    "normalized": "art. 534 del coip"
+  },
+  {
+    "text": "No. 12283-2022",
+    "type": "NUMERO_CAUSA",
+    "start": 711,
+    "end": 725,
+    "normalized": "no. 12283-2022"
+  },
+  {
+    "text": "No.117",
+    "type": "NUMERO_CAUSA",
+    "start": 3409,
+    "end": 3415,
+    "normalized": "no.117"
+  },
+  {
+    "text": "No.143",
+    "type": "NUMERO_CAUSA",
+    "start": 3622,
+    "end": 3628,
+    "normalized": "no.143"
+  },
+  {
+    "text": "No. 020-14",
+    "type": "NUMERO_CAUSA",
+    "start": 27457,
+    "end": 27467,
+    "normalized": "no. 020-14"
+  },
+  {
+    "text": "No. 0739-11",
+    "type": "NUMERO_CAUSA",
+    "start": 27481,
+    "end": 27492,
+    "normalized": "no. 0739-11"
+  },
+  {
+    "text": "UNIDAD JUDICIAL",
+    "type": "ORG",
+    "start": 49,
+    "end": 64,
+    "normalized": "unidad judicial"
+  },
+  {
+    "text": "Fiscalia",
+    "type": "ORG",
+    "start": 282,
+    "end": 290,
+    "normalized": "fiscalia"
+  },
+  {
+    "text": "SECRETARIA",
+    "type": "ORG",
+    "start": 4417,
+    "end": 4427,
+    "normalized": "secretaria"
+  },
+  {
+    "text": "Ministerio",
+    "type": "ORG",
+    "start": 5354,
+    "end": 5364,
+    "normalized": "ministerio"
+  },
+  {
+    "text": "Corte",
+    "type": "ORG",
+    "start": 27420,
+    "end": 27425,
+    "normalized": "corte"
+  },
+  {
+    "text": "comisión",
+    "type": "ORG",
+    "start": 32884,
+    "end": 32892,
+    "normalized": "comision"
+  },
+  {
+    "text": "Consejo de la Judicatura",
+    "type": "ORG",
+    "start": 34429,
+    "end": 34453,
+    "normalized": "consejo de la judicatura"
+  },
+  {
+    "text": "Cegido Arevalo Moises Guillermo",
+    "type": "PERSONA",
+    "start": 338,
+    "end": 369,
+    "normalized": "cegido arevalo moises guillermo"
+  },
+  {
+    "text": "Ayudante Judicial Ab",
+    "type": "PERSONA",
+    "start": 446,
+    "end": 466,
+    "normalized": "ayudante judicial ab"
+  },
+  {
+    "text": "Javier Briones",
+    "type": "PERSONA",
+    "start": 468,
+    "end": 482,
+    "normalized": "javier briones"
+  },
+  {
+    "text": "Causa Penal No",
+    "type": "OTRO",
+    "start": 699,
+    "end": 713,
+    "normalized": "causa penal no"
+  },
+  {
+    "text": "Consejo Página",
+    "type": "ORG",
+    "start": 2581,
+    "end": 2595,
+    "normalized": "consejo pagina"
+  },
+  {
+    "text": "Ayudante Judicial",
+    "type": "PERSONA",
+    "start": 2859,
+    "end": 2876,
+    "normalized": "ayudante judicial"
+  },
+  {
+    "text": "Judicatura Ab",
+    "type": "ORG",
+    "start": 2885,
+    "end": 2898,
+    "normalized": "judicatura ab"
+  },
+  {
+    "text": "En Quevedo",
+    "type": "OTRO",
+    "start": 3084,
+    "end": 3094,
+    "normalized": "en quevedo"
+  },
+  {
+    "text": "Ruth Maria",
+    "type": "PERSONA",
+    "start": 4758,
+    "end": 4768,
+    "normalized": "ruth maria"
+  },
+  {
+    "text": "Carmen Párraga Mendoza",
+    "type": "PERSONA",
+    "start": 4773,
+    "end": 4795,
+    "normalized": "carmen parraga mendoza"
+  },
+  {
+    "text": "Lo Certifico",
+    "type": "OTRO",
+    "start": 5376,
+    "end": 5388,
+    "normalized": "lo certifico"
+  },
+  {
+    "text": "Los Ríos Quevedo",
+    "type": "OTRO",
+    "start": 6917,
+    "end": 6933,
+    "normalized": "los rios quevedo"
+  },
+  {
+    "text": "Fiscal Abogado Cristian Montoya",
+    "type": "PERSONA",
+    "start": 7145,
+    "end": 7176,
+    "normalized": "fiscal abogado cristian montoya"
+  },
+  {
+    "text": "Luis Olmedo Liverio",
+    "type": "PERSONA",
+    "start": 7204,
+    "end": 7223,
+    "normalized": "luis olmedo liverio"
+  },
+  {
+    "text": "Los Ríos",
+    "type": "OTRO",
+    "start": 7335,
+    "end": 7343,
+    "normalized": "los rios"
+  },
+  {
+    "text": "Freddy Barzola Miranda",
+    "type": "PERSONA",
+    "start": 7351,
+    "end": 7373,
+    "normalized": "freddy barzola miranda"
+  },
+  {
+    "text": "Código Orgánico Integral Penal",
+    "type": "PERSONA",
+    "start": 7693,
+    "end": 7723,
+    "normalized": "codigo organico integral penal"
+  },
+  {
+    "text": "Código Orgánico",
+    "type": "PERSONA",
+    "start": 8431,
+    "end": 8446,
+    "normalized": "codigo organico"
+  },
+  {
+    "text": "Función Judicial",
+    "type": "ORG",
+    "start": 8453,
+    "end": 8469,
+    "normalized": "funcion judicial"
+  },
+  {
+    "text": "Juez Penal",
+    "type": "PERSONA",
+    "start": 8483,
+    "end": 8493,
+    "normalized": "juez penal"
+  },
+  {
+    "text": "Arévalo Moisés Guillermo",
+    "type": "PERSONA",
+    "start": 10121,
+    "end": 10145,
+    "normalized": "arevalo moises guillermo"
+  },
+  {
+    "text": "Código Orgánico Integral",
+    "type": "PERSONA",
+    "start": 11498,
+    "end": 11522,
+    "normalized": "codigo organico integral"
+  },
+  {
+    "text": "Luis Fernando Grajales Martínez",
+    "type": "PERSONA",
+    "start": 13867,
+    "end": 13898,
+    "normalized": "luis fernando grajales martinez"
+  },
+  {
+    "text": "Nuestra Constitución",
+    "type": "PERSONA",
+    "start": 15378,
+    "end": 15398,
+    "normalized": "nuestra constitucion"
+  },
+  {
+    "text": "El Código Orgánico Integral",
+    "type": "OTRO",
+    "start": 16794,
+    "end": 16821,
+    "normalized": "el codigo organico integral"
+  },
+  {
+    "text": "Código Integral Penal",
+    "type": "PERSONA",
+    "start": 19666,
+    "end": 19687,
+    "normalized": "codigo integral penal"
+  },
+  {
+    "text": "Derechos Humanos",
+    "type": "PERSONA",
+    "start": 22959,
+    "end": 22975,
+    "normalized": "derechos humanos"
+  },
+  {
+    "text": "Declaración Americana",
+    "type": "PERSONA",
+    "start": 25652,
+    "end": 25673,
+    "normalized": "declaracion americana"
+  },
+  {
+    "text": "Convención Americana",
+    "type": "PERSONA",
+    "start": 25734,
+    "end": 25754,
+    "normalized": "convencion americana"
+  },
+  {
+    "text": "San José",
+    "type": "LUGAR",
+    "start": 25790,
+    "end": 25798,
+    "normalized": "san jose"
+  },
+  {
+    "text": "Costa Rica",
+    "type": "PERSONA",
+    "start": 25802,
+    "end": 25812,
+    "normalized": "costa rica"
+  },
+  {
+    "text": "Carrión Lugo",
+    "type": "PERSONA",
+    "start": 26823,
+    "end": 26835,
+    "normalized": "carrion lugo"
+  },
+  {
+    "text": "Sentencia No",
+    "type": "OTRO",
+    "start": 27447,
+    "end": 27459,
+    "normalized": "sentencia no"
+  },
+  {
+    "text": "Garantías Penales",
+    "type": "OTRO",
+    "start": 29227,
+    "end": 29244,
+    "normalized": "garantias penales"
+  },
+  {
+    "text": "Capítulo Tercero",
+    "type": "PERSONA",
+    "start": 30367,
+    "end": 30383,
+    "normalized": "capitulo tercero"
+  },
+  {
+    "text": "Claus Roxin",
+    "type": "PERSONA",
+    "start": 30498,
+    "end": 30509,
+    "normalized": "claus roxin"
+  },
+  {
+    "text": "Jorge Zavala Baquerizo",
+    "type": "PERSONA",
+    "start": 30511,
+    "end": 30533,
+    "normalized": "jorge zavala baquerizo"
+  },
+  {
+    "text": "Raúl Zaffaroni",
+    "type": "PERSONA",
+    "start": 30535,
+    "end": 30549,
+    "normalized": "raul zaffaroni"
+  },
+  {
+    "text": "Cantón Quevedo",
+    "type": "PERSONA",
+    "start": 33352,
+    "end": 33366,
+    "normalized": "canton quevedo"
+  },
+  {
+    "text": "Personas Adultas",
+    "type": "PERSONA",
+    "start": 34106,
+    "end": 34122,
+    "normalized": "personas adultas"
+  },
+  {
+    "text": "Consejo Provincial Electoral",
+    "type": "ORG",
+    "start": 34919,
+    "end": 34947,
+    "normalized": "consejo provincial electoral"
+  },
+  {
+    "text": "Carmen Párraga",
+    "type": "PERSONA",
+    "start": 35330,
+    "end": 35344,
+    "normalized": "carmen parraga"
+  },
+  {
+    "text": "Acta Resumen",
+    "type": "PERSONA",
+    "start": 35614,
+    "end": 35626,
+    "normalized": "acta resumen"
+  },
+  {
+    "text": "Causa No",
+    "type": "PERSONA",
+    "start": 41429,
+    "end": 41437,
+    "normalized": "causa no"
+  },
+  {
+    "text": "Casa Judicial",
+    "type": "PERSONA",
+    "start": 41918,
+    "end": 41931,
+    "normalized": "casa judicial"
+  },
+  {
+    "text": "Audiencia Oral Pública",
+    "type": "OTRO",
+    "start": 42574,
+    "end": 42596,
+    "normalized": "audiencia oral publica"
+  },
+  {
+    "text": "Walter Andrade",
+    "type": "PERSONA",
+    "start": 42770,
+    "end": 42784,
+    "normalized": "walter andrade"
+  },
+  {
+    "text": "Gustavo Chong Qui",
+    "type": "PERSONA",
+    "start": 42787,
+    "end": 42804,
+    "normalized": "gustavo chong qui"
+  },
+  {
+    "text": "Procedimiento Directo",
+    "type": "PERSONA",
+    "start": 44044,
+    "end": 44065,
+    "normalized": "procedimiento directo"
+  },
+  {
+    "text": "Calle Gustavo Chong Quí",
+    "type": "PERSONA",
+    "start": 45026,
+    "end": 45049,
+    "normalized": "calle gustavo chong qui"
+  },
+  {
+    "text": "Abogado Luis Olmedo Liverio",
+    "type": "PERSONA",
+    "start": 46901,
+    "end": 46928,
+    "normalized": "abogado luis olmedo liverio"
+  },
+  {
+    "text": "Cristian Montoya Tello",
+    "type": "PERSONA",
+    "start": 49627,
+    "end": 49649,
+    "normalized": "cristian montoya tello"
+  },
+  {
+    "text": "Velez Castro Cristhoper Javier",
+    "type": "PERSONA",
+    "start": 49747,
+    "end": 49777,
+    "normalized": "velez castro cristhoper javier"
+  },
+  {
+    "text": "Serrano Moyano Francisco Oswaldo",
+    "type": "PERSONA",
+    "start": 49779,
+    "end": 49811,
+    "normalized": "serrano moyano francisco oswaldo"
+  },
+  {
+    "text": "Guillen Panchana Marcos Damian",
+    "type": "PERSONA",
+    "start": 49813,
+    "end": 49843,
+    "normalized": "guillen panchana marcos damian"
+  },
+  {
+    "text": "Fausto Fabian Viracocha Masabanda",
+    "type": "PERSONA",
+    "start": 49845,
+    "end": 49878,
+    "normalized": "fausto fabian viracocha masabanda"
+  },
+  {
+    "text": "Luis Enrique Chagcha Larrea",
+    "type": "PERSONA",
+    "start": 49880,
+    "end": 49907,
+    "normalized": "luis enrique chagcha larrea"
+  },
+  {
+    "text": "Grajales Martinez Luis Fernando",
+    "type": "PERSONA",
+    "start": 49909,
+    "end": 49940,
+    "normalized": "grajales martinez luis fernando"
+  },
+  {
+    "text": "Moises Guillermo Cegido Arevalo",
+    "type": "PERSONA",
+    "start": 52405,
+    "end": 52436,
+    "normalized": "moises guillermo cegido arevalo"
+  },
+  {
+    "text": "Gabriel Macias",
+    "type": "PERSONA",
+    "start": 52493,
+    "end": 52507,
+    "normalized": "gabriel macias"
+  },
+  {
+    "text": "Cristhian Montoya",
+    "type": "PERSONA",
+    "start": 52707,
+    "end": 52724,
+    "normalized": "cristhian montoya"
+  },
+  {
+    "text": "Juez Titular",
+    "type": "PERSONA",
+    "start": 56382,
+    "end": 56394,
+    "normalized": "juez titular"
+  },
+  {
+    "text": "Felipe Garcia Gualpa",
+    "type": "PERSONA",
+    "start": 56541,
+    "end": 56561,
+    "normalized": "felipe garcia gualpa"
+  },
+  {
+    "text": "Defensores Públicos",
+    "type": "PERSONA",
+    "start": 57050,
+    "end": 57069,
+    "normalized": "defensores publicos"
+  },
+  {
+    "text": "Gabriel Macias Felix",
+    "type": "PERSONA",
+    "start": 57161,
+    "end": 57181,
+    "normalized": "gabriel macias felix"
+  },
+  {
+    "text": "Doctor Barzola Miranda Freddy",
+    "type": "PERSONA",
+    "start": 57880,
+    "end": 57909,
+    "normalized": "doctor barzola miranda freddy"
+  },
+  {
+    "text": "Parraga Mendoza Ruth Maria",
+    "type": "PERSONA",
+    "start": 57931,
+    "end": 57957,
+    "normalized": "parraga mendoza ruth maria"
+  },
+  {
+    "text": "Primera Instancia",
+    "type": "PERSONA",
+    "start": 58078,
+    "end": 58095,
+    "normalized": "primera instancia"
+  }
+]

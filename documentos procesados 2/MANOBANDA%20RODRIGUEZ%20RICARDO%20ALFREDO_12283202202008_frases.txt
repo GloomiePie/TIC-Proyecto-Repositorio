@@ -1,0 +1,144 @@
+[FORMULA_JUDICIAL]
+- ADMINISTRANDO JUSTICIA EN NOMBRE DEL PUEBLO SOBERANO DEL ECUADOR Y POR AUTORIDAD DE LA CONSTITUCIÓN Y LEYES DE LA REPÚBLICA, declara la culpabilidad del procesado Cegido Arévalo Mo
+
+[FECHA]
+- 26 de noviembre de 2022
+- 25/05/2023
+- 27/02/2023
+- 25/11/2022
+- 17/01/2023
+- 25/01/2023
+- 23/01/2023
+- 11/01/2023
+- 30/12/2022
+- 29/12/2022
+- 19/12/2022
+- 13/12/2022
+- 12/12/2022
+- 02/12/2022
+- 01/12/2022
+- 29/11/2022
+- 28/11/2022
+- 26/11/2022
+
+[ARTICULO_LEGAL]
+- ART. 202
+- Art. 56 del COIP
+- Art. 621
+- Art. 75
+- Art. 224
+- Art. 635
+- Art. 455
+- ART. 637 DEL COIP
+- art. 637
+- Art. 76
+- Art. 168
+- Art. 319
+- Art. 610
+- Art. 34
+- Art. 636
+- Art. 5
+- Art. 169
+- Art. 8
+- artículo 76
+- artículo 82
+- artículo 453
+- artículo 168
+- Art. 457
+- Art. 70
+- Art. 68
+- Art. 78
+- ART. 635 DEL COIP
+- ART. 619 DEL COIP
+- ART. 202 DEL COIP
+- Art. 360
+- Art. 640
+- ART. 527 DEL COIP
+- ART. 534 DEL COIP
+
+[NUMERO_CAUSA]
+- No. 12283-2022
+- No.117
+- No.143
+- No. 020-14
+- No. 0739-11
+
+[ORG]
+- UNIDAD JUDICIAL
+- Fiscalia
+- SECRETARIA
+- Ministerio
+- Corte
+- comisión
+- Consejo de la Judicatura
+- Consejo Página
+- Judicatura Ab
+- Función Judicial
+- Consejo Provincial Electoral
+
+[PERSONA]
+- Cegido Arevalo Moises Guillermo
+- Ayudante Judicial Ab
+- Javier Briones
+- Ayudante Judicial
+- Ruth Maria
+- Carmen Párraga Mendoza
+- Fiscal Abogado Cristian Montoya
+- Luis Olmedo Liverio
+- Freddy Barzola Miranda
+- Código Orgánico Integral Penal
+- Código Orgánico
+- Juez Penal
+- Arévalo Moisés Guillermo
+- Código Orgánico Integral
+- Luis Fernando Grajales Martínez
+- Nuestra Constitución
+- Código Integral Penal
+- Derechos Humanos
+- Declaración Americana
+- Convención Americana
+- Costa Rica
+- Carrión Lugo
+- Capítulo Tercero
+- Claus Roxin
+- Jorge Zavala Baquerizo
+- Raúl Zaffaroni
+- Cantón Quevedo
+- Personas Adultas
+- Carmen Párraga
+- Acta Resumen
+- Causa No
+- Casa Judicial
+- Walter Andrade
+- Gustavo Chong Qui
+- Procedimiento Directo
+- Calle Gustavo Chong Quí
+- Abogado Luis Olmedo Liverio
+- Cristian Montoya Tello
+- Velez Castro Cristhoper Javier
+- Serrano Moyano Francisco Oswaldo
+- Guillen Panchana Marcos Damian
+- Fausto Fabian Viracocha Masabanda
+- Luis Enrique Chagcha Larrea
+- Grajales Martinez Luis Fernando
+- Moises Guillermo Cegido Arevalo
+- Gabriel Macias
+- Cristhian Montoya
+- Juez Titular
+- Felipe Garcia Gualpa
+- Defensores Públicos
+
+[OTRO]
+- Causa Penal No
+- En Quevedo
+- Lo Certifico
+- Los Ríos Quevedo
+- Los Ríos
+- El Código Orgánico Integral
+- Sentencia No
+- Garantías Penales
+- Audiencia Oral Pública
+
+[LUGAR]
+- San José
+

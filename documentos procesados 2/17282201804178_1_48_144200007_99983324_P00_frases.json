@@ -1,0 +1,548 @@
+[
+  {
+    "text": "18 de diciembre de 2018",
+    "type": "FECHA",
+    "start": 453,
+    "end": 476,
+    "normalized": "18 de diciembre de 2018"
+  },
+  {
+    "text": "23 de noviembre de 2001",
+    "type": "FECHA",
+    "start": 9350,
+    "end": 9373,
+    "normalized": "23 de noviembre de 2001"
+  },
+  {
+    "text": "4 de enero de 2019",
+    "type": "FECHA",
+    "start": 15758,
+    "end": 15776,
+    "normalized": "4 de enero de 2019"
+  },
+  {
+    "text": "Art. 195",
+    "type": "ARTICULO_LEGAL",
+    "start": 849,
+    "end": 857,
+    "normalized": "art. 195"
+  },
+  {
+    "text": "Art. 232",
+    "type": "ARTICULO_LEGAL",
+    "start": 1030,
+    "end": 1038,
+    "normalized": "art. 232"
+  },
+  {
+    "text": "Art. 522",
+    "type": "ARTICULO_LEGAL",
+    "start": 1237,
+    "end": 1245,
+    "normalized": "art. 522"
+  },
+  {
+    "text": "Art. 635",
+    "type": "ARTICULO_LEGAL",
+    "start": 1881,
+    "end": 1889,
+    "normalized": "art. 635"
+  },
+  {
+    "text": "Art. 14",
+    "type": "ARTICULO_LEGAL",
+    "start": 2811,
+    "end": 2818,
+    "normalized": "art. 14"
+  },
+  {
+    "text": "Art. 168",
+    "type": "ARTICULO_LEGAL",
+    "start": 2906,
+    "end": 2914,
+    "normalized": "art. 168"
+  },
+  {
+    "text": "Art. 76",
+    "type": "ARTICULO_LEGAL",
+    "start": 3107,
+    "end": 3114,
+    "normalized": "art. 76"
+  },
+  {
+    "text": "Artículo 225",
+    "type": "ARTICULO_LEGAL",
+    "start": 3586,
+    "end": 3598,
+    "normalized": "articulo 225"
+  },
+  {
+    "text": "Art. 232 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 7112,
+    "end": 7129,
+    "normalized": "art. 232 del coip"
+  },
+  {
+    "text": "art. 2",
+    "type": "ARTICULO_LEGAL",
+    "start": 9634,
+    "end": 9640,
+    "normalized": "art. 2"
+  },
+  {
+    "text": "art. 3",
+    "type": "ARTICULO_LEGAL",
+    "start": 9718,
+    "end": 9724,
+    "normalized": "art. 3"
+  },
+  {
+    "text": "art. 4",
+    "type": "ARTICULO_LEGAL",
+    "start": 9781,
+    "end": 9787,
+    "normalized": "art. 4"
+  },
+  {
+    "text": "art. 5",
+    "type": "ARTICULO_LEGAL",
+    "start": 9834,
+    "end": 9840,
+    "normalized": "art. 5"
+  },
+  {
+    "text": "art. 6",
+    "type": "ARTICULO_LEGAL",
+    "start": 10090,
+    "end": 10096,
+    "normalized": "art. 6"
+  },
+  {
+    "text": "art. 7",
+    "type": "ARTICULO_LEGAL",
+    "start": 10124,
+    "end": 10130,
+    "normalized": "art. 7"
+  },
+  {
+    "text": "art. 8",
+    "type": "ARTICULO_LEGAL",
+    "start": 10153,
+    "end": 10159,
+    "normalized": "art. 8"
+  },
+  {
+    "text": "art. 9",
+    "type": "ARTICULO_LEGAL",
+    "start": 10217,
+    "end": 10223,
+    "normalized": "art. 9"
+  },
+  {
+    "text": "art. 10",
+    "type": "ARTICULO_LEGAL",
+    "start": 10329,
+    "end": 10336,
+    "normalized": "art. 10"
+  },
+  {
+    "text": "artículo 2",
+    "type": "ARTICULO_LEGAL",
+    "start": 10565,
+    "end": 10575,
+    "normalized": "articulo 2"
+  },
+  {
+    "text": "artículo 1",
+    "type": "ARTICULO_LEGAL",
+    "start": 11148,
+    "end": 11158,
+    "normalized": "articulo 1"
+  },
+  {
+    "text": "artículo 615",
+    "type": "ARTICULO_LEGAL",
+    "start": 11940,
+    "end": 11952,
+    "normalized": "articulo 615"
+  },
+  {
+    "text": "Art. 42",
+    "type": "ARTICULO_LEGAL",
+    "start": 24027,
+    "end": 24034,
+    "normalized": "art. 42"
+  },
+  {
+    "text": "Artículo 70 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 24393,
+    "end": 24413,
+    "normalized": "articulo 70 del coip"
+  },
+  {
+    "text": "artículo 232 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 25120,
+    "end": 25141,
+    "normalized": "articulo 232 del coip"
+  },
+  {
+    "text": "artículo 78",
+    "type": "ARTICULO_LEGAL",
+    "start": 25639,
+    "end": 25650,
+    "normalized": "articulo 78"
+  },
+  {
+    "text": "artículo 622",
+    "type": "ARTICULO_LEGAL",
+    "start": 26295,
+    "end": 26307,
+    "normalized": "articulo 622"
+  },
+  {
+    "text": "artículo 628 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 26755,
+    "end": 26776,
+    "normalized": "articulo 628 del coip"
+  },
+  {
+    "text": "Art. 64",
+    "type": "ARTICULO_LEGAL",
+    "start": 27727,
+    "end": 27734,
+    "normalized": "art. 64"
+  },
+  {
+    "text": "Art. 60",
+    "type": "ARTICULO_LEGAL",
+    "start": 27804,
+    "end": 27811,
+    "normalized": "art. 60"
+  },
+  {
+    "text": "No. 17282",
+    "type": "NUMERO_CAUSA",
+    "start": 7,
+    "end": 16,
+    "normalized": "no. 17282"
+  },
+  {
+    "text": "No. 130130",
+    "type": "NUMERO_CAUSA",
+    "start": 25486,
+    "end": 25496,
+    "normalized": "no. 130130"
+  },
+  {
+    "text": "UNIDAD JUDICIAL",
+    "type": "ORG",
+    "start": 28,
+    "end": 43,
+    "normalized": "unidad judicial"
+  },
+  {
+    "text": "Fiscalía",
+    "type": "ORG",
+    "start": 771,
+    "end": 779,
+    "normalized": "fiscalia"
+  },
+  {
+    "text": "Instituto",
+    "type": "ORG",
+    "start": 9062,
+    "end": 9071,
+    "normalized": "instituto"
+  },
+  {
+    "text": "Seguridad Social",
+    "type": "ORG",
+    "start": 9087,
+    "end": 9103,
+    "normalized": "seguridad social"
+  },
+  {
+    "text": "DIRECCIÓN",
+    "type": "ORG",
+    "start": 25547,
+    "end": 25556,
+    "normalized": "direccion"
+  },
+  {
+    "text": "CONSEJO DE LA JUDICATURA",
+    "type": "ORG",
+    "start": 25572,
+    "end": 25596,
+    "normalized": "consejo de la judicatura"
+  },
+  {
+    "text": "juzgado",
+    "type": "ORG",
+    "start": 27095,
+    "end": 27102,
+    "normalized": "juzgado"
+  },
+  {
+    "text": "Juicio No",
+    "type": "OTRO",
+    "start": 0,
+    "end": 9,
+    "normalized": "juicio no"
+  },
+  {
+    "text": "Garantías Penales",
+    "type": "OTRO",
+    "start": 256,
+    "end": 273,
+    "normalized": "garantias penales"
+  },
+  {
+    "text": "Distrito Metropolitano",
+    "type": "ORG",
+    "start": 302,
+    "end": 324,
+    "normalized": "distrito metropolitano"
+  },
+  {
+    "text": "Infracciones Flagrantes",
+    "type": "OTRO",
+    "start": 609,
+    "end": 632,
+    "normalized": "infracciones flagrantes"
+  },
+  {
+    "text": "Código Orgánico Integral Penal",
+    "type": "PERSONA",
+    "start": 920,
+    "end": 950,
+    "normalized": "codigo organico integral penal"
+  },
+  {
+    "text": "Procedimiento Abreviado",
+    "type": "PERSONA",
+    "start": 1324,
+    "end": 1347,
+    "normalized": "procedimiento abreviado"
+  },
+  {
+    "text": "Código Orgánico",
+    "type": "PERSONA",
+    "start": 2863,
+    "end": 2878,
+    "normalized": "codigo organico"
+  },
+  {
+    "text": "Función Judicial",
+    "type": "ORG",
+    "start": 2885,
+    "end": 2901,
+    "normalized": "funcion judicial"
+  },
+  {
+    "text": "El Jurista",
+    "type": "OTRO",
+    "start": 4523,
+    "end": 4533,
+    "normalized": "el jurista"
+  },
+  {
+    "text": "Simón Valdivieso Vintimilla",
+    "type": "PERSONA",
+    "start": 4547,
+    "end": 4574,
+    "normalized": "simon valdivieso vintimilla"
+  },
+  {
+    "text": "Índice Analítico",
+    "type": "PERSONA",
+    "start": 4588,
+    "end": 4604,
+    "normalized": "indice analitico"
+  },
+  {
+    "text": "Procedimiento Penal Ecuatoriano",
+    "type": "PERSONA",
+    "start": 4623,
+    "end": 4654,
+    "normalized": "procedimiento penal ecuatoriano"
+  },
+  {
+    "text": "El Juzgador",
+    "type": "ORG",
+    "start": 5709,
+    "end": 5720,
+    "normalized": "el juzgador"
+  },
+  {
+    "text": "El Convenio",
+    "type": "OTRO",
+    "start": 9280,
+    "end": 9291,
+    "normalized": "el convenio"
+  },
+  {
+    "text": "Estados Parte",
+    "type": "OTRO",
+    "start": 9456,
+    "end": 9469,
+    "normalized": "estados parte"
+  },
+  {
+    "text": "Los Estados Parte",
+    "type": "OTRO",
+    "start": 10582,
+    "end": 10599,
+    "normalized": "los estados parte"
+  },
+  {
+    "text": "Los Estados",
+    "type": "OTRO",
+    "start": 10835,
+    "end": 10846,
+    "normalized": "los estados"
+  },
+  {
+    "text": "En Alemania",
+    "type": "OTRO",
+    "start": 12353,
+    "end": 12364,
+    "normalized": "en alemania"
+  },
+  {
+    "text": "Mir Puig",
+    "type": "PERSONA",
+    "start": 13033,
+    "end": 13041,
+    "normalized": "mir puig"
+  },
+  {
+    "text": "Marco Vinicio Sandoval",
+    "type": "PERSONA",
+    "start": 13825,
+    "end": 13847,
+    "normalized": "marco vinicio sandoval"
+  },
+  {
+    "text": "Maribel Cortez Estrella",
+    "type": "ORG",
+    "start": 15037,
+    "end": 15060,
+    "normalized": "maribel cortez estrella"
+  },
+  {
+    "text": "Parte Informativo",
+    "type": "OTRO",
+    "start": 16326,
+    "end": 16343,
+    "normalized": "parte informativo"
+  },
+  {
+    "text": "María Belén Cortez",
+    "type": "ORG",
+    "start": 16413,
+    "end": 16431,
+    "normalized": "maria belen cortez"
+  },
+  {
+    "text": "Edison German Vergara Brito",
+    "type": "PERSONA",
+    "start": 16455,
+    "end": 16482,
+    "normalized": "edison german vergara brito"
+  },
+  {
+    "text": "Sub Director Nacional",
+    "type": "PERSONA",
+    "start": 16484,
+    "end": 16505,
+    "normalized": "sub director nacional"
+  },
+  {
+    "text": "Daniel Paolo Rivadeneira Zambrano",
+    "type": "PERSONA",
+    "start": 16705,
+    "end": 16738,
+    "normalized": "daniel paolo rivadeneira zambrano"
+  },
+  {
+    "text": "Roció Yépez Guillem",
+    "type": "PERSONA",
+    "start": 16778,
+    "end": 16797,
+    "normalized": "rocio yepez guillem"
+  },
+  {
+    "text": "Marcelo Javier Salas Bajaña",
+    "type": "ORG",
+    "start": 16822,
+    "end": 16849,
+    "normalized": "marcelo javier salas bajana"
+  },
+  {
+    "text": "Ortiz Santillán",
+    "type": "PERSONA",
+    "start": 16887,
+    "end": 16902,
+    "normalized": "ortiz santillan"
+  },
+  {
+    "text": "Grace Alexandra Vásquez Quishpe",
+    "type": "PERSONA",
+    "start": 16930,
+    "end": 16961,
+    "normalized": "grace alexandra vasquez quishpe"
+  },
+  {
+    "text": "Johanna Valeria Zambrano",
+    "type": "PERSONA",
+    "start": 16989,
+    "end": 17013,
+    "normalized": "johanna valeria zambrano"
+  },
+  {
+    "text": "Santiago Andrés Andrade",
+    "type": "PERSONA",
+    "start": 17038,
+    "end": 17061,
+    "normalized": "santiago andres andrade"
+  },
+  {
+    "text": "Luis Alberto Segarra Pacheco",
+    "type": "PERSONA",
+    "start": 17085,
+    "end": 17113,
+    "normalized": "luis alberto segarra pacheco"
+  },
+  {
+    "text": "Audiencia Pública",
+    "type": "OTRO",
+    "start": 17443,
+    "end": 17460,
+    "normalized": "audiencia publica"
+  },
+  {
+    "text": "La Pena",
+    "type": "OTRO",
+    "start": 24272,
+    "end": 24279,
+    "normalized": "la pena"
+  },
+  {
+    "text": "Estado Constitucional",
+    "type": "OTRO",
+    "start": 24706,
+    "end": 24727,
+    "normalized": "estado constitucional"
+  },
+  {
+    "text": "María José Rivadeneira Domínguez",
+    "type": "PERSONA",
+    "start": 28070,
+    "end": 28102,
+    "normalized": "maria jose rivadeneira dominguez"
+  }
+]

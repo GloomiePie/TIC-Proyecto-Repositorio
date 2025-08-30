@@ -1,0 +1,863 @@
+[
+  {
+    "text": "3 de junio de 2024",
+    "type": "FECHA",
+    "start": 806,
+    "end": 824,
+    "normalized": "3 de junio de 2024"
+  },
+  {
+    "text": "3 de febrero de 2024",
+    "type": "FECHA",
+    "start": 11883,
+    "end": 11903,
+    "normalized": "3 de febrero de 2024"
+  },
+  {
+    "text": "6 de febrero de 2024",
+    "type": "FECHA",
+    "start": 15679,
+    "end": 15699,
+    "normalized": "6 de febrero de 2024"
+  },
+  {
+    "text": "25 de noviembre de 2024",
+    "type": "FECHA",
+    "start": 28769,
+    "end": 28792,
+    "normalized": "25 de noviembre de 2024"
+  },
+  {
+    "text": "artículo 144",
+    "type": "ARTICULO_LEGAL",
+    "start": 946,
+    "end": 958,
+    "normalized": "articulo 144"
+  },
+  {
+    "text": "artículo 42",
+    "type": "ARTICULO_LEGAL",
+    "start": 1060,
+    "end": 1071,
+    "normalized": "articulo 42"
+  },
+  {
+    "text": "artículo 522",
+    "type": "ARTICULO_LEGAL",
+    "start": 1570,
+    "end": 1582,
+    "normalized": "articulo 522"
+  },
+  {
+    "text": "artículo 555",
+    "type": "ARTICULO_LEGAL",
+    "start": 1680,
+    "end": 1692,
+    "normalized": "articulo 555"
+  },
+  {
+    "text": "Art. 619",
+    "type": "ARTICULO_LEGAL",
+    "start": 2157,
+    "end": 2165,
+    "normalized": "art. 619"
+  },
+  {
+    "text": "artículo 191",
+    "type": "ARTICULO_LEGAL",
+    "start": 4775,
+    "end": 4787,
+    "normalized": "articulo 191"
+  },
+  {
+    "text": "artículo 76",
+    "type": "ARTICULO_LEGAL",
+    "start": 4857,
+    "end": 4868,
+    "normalized": "articulo 76"
+  },
+  {
+    "text": "Art. 616 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 23528,
+    "end": 23545,
+    "normalized": "art. 616 del coip"
+  },
+  {
+    "text": "Art. 612 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 28615,
+    "end": 28632,
+    "normalized": "art. 612 del coip"
+  },
+  {
+    "text": "Art. 507",
+    "type": "ARTICULO_LEGAL",
+    "start": 30401,
+    "end": 30409,
+    "normalized": "art. 507"
+  },
+  {
+    "text": "artículo 455",
+    "type": "ARTICULO_LEGAL",
+    "start": 37862,
+    "end": 37874,
+    "normalized": "articulo 455"
+  },
+  {
+    "text": "artículo 5",
+    "type": "ARTICULO_LEGAL",
+    "start": 41792,
+    "end": 41802,
+    "normalized": "articulo 5"
+  },
+  {
+    "text": "Art. 609",
+    "type": "ARTICULO_LEGAL",
+    "start": 42297,
+    "end": 42305,
+    "normalized": "art. 609"
+  },
+  {
+    "text": "Art. 610",
+    "type": "ARTICULO_LEGAL",
+    "start": 42451,
+    "end": 42459,
+    "normalized": "art. 610"
+  },
+  {
+    "text": "Art. 621",
+    "type": "ARTICULO_LEGAL",
+    "start": 42757,
+    "end": 42765,
+    "normalized": "art. 621"
+  },
+  {
+    "text": "Art. 457",
+    "type": "ARTICULO_LEGAL",
+    "start": 43499,
+    "end": 43507,
+    "normalized": "art. 457"
+  },
+  {
+    "text": "Art. 453",
+    "type": "ARTICULO_LEGAL",
+    "start": 43586,
+    "end": 43594,
+    "normalized": "art. 453"
+  },
+  {
+    "text": "Art. 144",
+    "type": "ARTICULO_LEGAL",
+    "start": 43814,
+    "end": 43822,
+    "normalized": "art. 144"
+  },
+  {
+    "text": "Art. 455",
+    "type": "ARTICULO_LEGAL",
+    "start": 54562,
+    "end": 54570,
+    "normalized": "art. 455"
+  },
+  {
+    "text": "Art. 70",
+    "type": "ARTICULO_LEGAL",
+    "start": 55486,
+    "end": 55493,
+    "normalized": "art. 70"
+  },
+  {
+    "text": "Art. 69",
+    "type": "ARTICULO_LEGAL",
+    "start": 55686,
+    "end": 55693,
+    "normalized": "art. 69"
+  },
+  {
+    "text": "artículo 622",
+    "type": "ARTICULO_LEGAL",
+    "start": 55765,
+    "end": 55777,
+    "normalized": "articulo 622"
+  },
+  {
+    "text": "artículo 628",
+    "type": "ARTICULO_LEGAL",
+    "start": 56186,
+    "end": 56198,
+    "normalized": "articulo 628"
+  },
+  {
+    "text": "Art. 78",
+    "type": "ARTICULO_LEGAL",
+    "start": 57061,
+    "end": 57068,
+    "normalized": "art. 78"
+  },
+  {
+    "text": "No. 04334-2024",
+    "type": "NUMERO_CAUSA",
+    "start": 7,
+    "end": 21,
+    "normalized": "no. 04334-2024"
+  },
+  {
+    "text": "No. 19",
+    "type": "NUMERO_CAUSA",
+    "start": 455,
+    "end": 461,
+    "normalized": "no. 19"
+  },
+  {
+    "text": "No. 729",
+    "type": "NUMERO_CAUSA",
+    "start": 16004,
+    "end": 16011,
+    "normalized": "no. 729"
+  },
+  {
+    "text": "No. 10572-2019",
+    "type": "NUMERO_CAUSA",
+    "start": 58086,
+    "end": 58100,
+    "normalized": "no. 10572-2019"
+  },
+  {
+    "text": "TRIBUNAL",
+    "type": "ORG",
+    "start": 112,
+    "end": 120,
+    "normalized": "tribunal"
+  },
+  {
+    "text": "FISCALÍA",
+    "type": "ORG",
+    "start": 3322,
+    "end": 3330,
+    "normalized": "fiscalia"
+  },
+  {
+    "text": "corte",
+    "type": "ORG",
+    "start": 8373,
+    "end": 8378,
+    "normalized": "corte"
+  },
+  {
+    "text": "secretaría",
+    "type": "ORG",
+    "start": 23619,
+    "end": 23629,
+    "normalized": "secretaria"
+  },
+  {
+    "text": "dirección",
+    "type": "ORG",
+    "start": 24055,
+    "end": 24064,
+    "normalized": "direccion"
+  },
+  {
+    "text": "Consejo de la Judicatura",
+    "type": "ORG",
+    "start": 33045,
+    "end": 33069,
+    "normalized": "consejo de la judicatura"
+  },
+  {
+    "text": "Corte Nacional",
+    "type": "ORG",
+    "start": 58043,
+    "end": 58057,
+    "normalized": "corte nacional"
+  },
+  {
+    "text": "Juicio No",
+    "type": "OTRO",
+    "start": 0,
+    "end": 9,
+    "normalized": "juicio no"
+  },
+  {
+    "text": "San Gabriel",
+    "type": "LUGAR",
+    "start": 590,
+    "end": 601,
+    "normalized": "san gabriel"
+  },
+  {
+    "text": "La Dra",
+    "type": "OTRO",
+    "start": 672,
+    "end": 678,
+    "normalized": "la dra"
+  },
+  {
+    "text": "Doris Ximena Gaibor Obando",
+    "type": "PERSONA",
+    "start": 680,
+    "end": 706,
+    "normalized": "doris ximena gaibor obando"
+  },
+  {
+    "text": "Unidad Multicompetente",
+    "type": "ORG",
+    "start": 720,
+    "end": 742,
+    "normalized": "unidad multicompetente"
+  },
+  {
+    "text": "Código Orgánico Integral Penal",
+    "type": "PERSONA",
+    "start": 963,
+    "end": 993,
+    "normalized": "codigo organico integral penal"
+  },
+  {
+    "text": "Código Orgánico",
+    "type": "PERSONA",
+    "start": 2555,
+    "end": 2570,
+    "normalized": "codigo organico"
+  },
+  {
+    "text": "Función Judicial",
+    "type": "ORG",
+    "start": 2577,
+    "end": 2593,
+    "normalized": "funcion judicial"
+  },
+  {
+    "text": "El Dr",
+    "type": "OTRO",
+    "start": 3332,
+    "end": 3337,
+    "normalized": "el dr"
+  },
+  {
+    "text": "Iván Antonio Sandoval",
+    "type": "PERSONA",
+    "start": 3339,
+    "end": 3360,
+    "normalized": "ivan antonio sandoval"
+  },
+  {
+    "text": "Nelson Rafael Ramírez Marcano",
+    "type": "PERSONA",
+    "start": 3720,
+    "end": 3749,
+    "normalized": "nelson rafael ramirez marcano"
+  },
+  {
+    "text": "Carlos Eduardo Montilla Campos",
+    "type": "PERSONA",
+    "start": 3911,
+    "end": 3941,
+    "normalized": "carlos eduardo montilla campos"
+  },
+  {
+    "text": "El Ab",
+    "type": "OTRO",
+    "start": 4674,
+    "end": 4679,
+    "normalized": "el ab"
+  },
+  {
+    "text": "John Valencia Figueroa",
+    "type": "PERSONA",
+    "start": 4681,
+    "end": 4703,
+    "normalized": "john valencia figueroa"
+  },
+  {
+    "text": "Eduardo Montilla Campos",
+    "type": "PERSONA",
+    "start": 5052,
+    "end": 5075,
+    "normalized": "eduardo montilla campos"
+  },
+  {
+    "text": "Nelson Ramírez",
+    "type": "PERSONA",
+    "start": 5101,
+    "end": 5115,
+    "normalized": "nelson ramirez"
+  },
+  {
+    "text": "Lucía Magdalena Car",
+    "type": "PERSONA",
+    "start": 6209,
+    "end": 6228,
+    "normalized": "lucia magdalena car"
+  },
+  {
+    "text": "Ramírez Marcano Nelson",
+    "type": "PERSONA",
+    "start": 6350,
+    "end": 6372,
+    "normalized": "ramirez marcano nelson"
+  },
+  {
+    "text": "Byron Pérez",
+    "type": "PERSONA",
+    "start": 7509,
+    "end": 7520,
+    "normalized": "byron perez"
+  },
+  {
+    "text": "Kevin Sebastián Itás Tirira",
+    "type": "PERSONA",
+    "start": 8397,
+    "end": 8424,
+    "normalized": "kevin sebastian itas tirira"
+  },
+  {
+    "text": "Unidad Motorizada",
+    "type": "ORG",
+    "start": 8493,
+    "end": 8510,
+    "normalized": "unidad motorizada"
+  },
+  {
+    "text": "John Edwin Iguad Miranda",
+    "type": "PERSONA",
+    "start": 9926,
+    "end": 9950,
+    "normalized": "john edwin iguad miranda"
+  },
+  {
+    "text": "Edison Iván Chacón Chamba",
+    "type": "PERSONA",
+    "start": 11727,
+    "end": 11752,
+    "normalized": "edison ivan chacon chamba"
+  },
+  {
+    "text": "Carlos Eduardo Montilla Campo",
+    "type": "PERSONA",
+    "start": 13484,
+    "end": 13513,
+    "normalized": "carlos eduardo montilla campo"
+  },
+  {
+    "text": "Rafael Ramírez",
+    "type": "PERSONA",
+    "start": 13622,
+    "end": 13636,
+    "normalized": "rafael ramirez"
+  },
+  {
+    "text": "Danny Bedon Brusil",
+    "type": "PERSONA",
+    "start": 13914,
+    "end": 13932,
+    "normalized": "danny bedon brusil"
+  },
+  {
+    "text": "Jefatura Subzonal",
+    "type": "PERSONA",
+    "start": 14028,
+    "end": 14045,
+    "normalized": "jefatura subzonal"
+  },
+  {
+    "text": "Nancy Paguay",
+    "type": "PERSONA",
+    "start": 14827,
+    "end": 14839,
+    "normalized": "nancy paguay"
+  },
+  {
+    "text": "Édison Eduardo Procel Samaniego",
+    "type": "PERSONA",
+    "start": 15557,
+    "end": 15588,
+    "normalized": "edison eduardo procel samaniego"
+  },
+  {
+    "text": "Ramírez Marcano",
+    "type": "PERSONA",
+    "start": 15852,
+    "end": 15867,
+    "normalized": "ramirez marcano"
+  },
+  {
+    "text": "Pilar Paguay Paspuel",
+    "type": "PERSONA",
+    "start": 16163,
+    "end": 16183,
+    "normalized": "pilar paguay paspuel"
+  },
+  {
+    "text": "Ciencias Forenses",
+    "type": "PERSONA",
+    "start": 17834,
+    "end": 17851,
+    "normalized": "ciencias forenses"
+  },
+  {
+    "text": "Reime Gregorio Mantilla Torres",
+    "type": "PERSONA",
+    "start": 18515,
+    "end": 18545,
+    "normalized": "reime gregorio mantilla torres"
+  },
+  {
+    "text": "Wilmer Eduardo Yugcha",
+    "type": "PERSONA",
+    "start": 18587,
+    "end": 18608,
+    "normalized": "wilmer eduardo yugcha"
+  },
+  {
+    "text": "Servicio Nacional",
+    "type": "PERSONA",
+    "start": 18672,
+    "end": 18689,
+    "normalized": "servicio nacional"
+  },
+  {
+    "text": "Medicina Legal",
+    "type": "PERSONA",
+    "start": 18693,
+    "end": 18707,
+    "normalized": "medicina legal"
+  },
+  {
+    "text": "Ciencias Forense",
+    "type": "PERSONA",
+    "start": 18750,
+    "end": 18766,
+    "normalized": "ciencias forense"
+  },
+  {
+    "text": "Mantilla Campos Carlos",
+    "type": "PERSONA",
+    "start": 19111,
+    "end": 19133,
+    "normalized": "mantilla campos carlos"
+  },
+  {
+    "text": "Montilla Campos",
+    "type": "PERSONA",
+    "start": 19927,
+    "end": 19942,
+    "normalized": "montilla campos"
+  },
+  {
+    "text": "Montilla Campos Carlos",
+    "type": "PERSONA",
+    "start": 20399,
+    "end": 20421,
+    "normalized": "montilla campos carlos"
+  },
+  {
+    "text": "José Magi Lamara",
+    "type": "PERSONA",
+    "start": 20768,
+    "end": 20784,
+    "normalized": "jose magi lamara"
+  },
+  {
+    "text": "Pedro Rolando Morales Vaca",
+    "type": "PERSONA",
+    "start": 22844,
+    "end": 22870,
+    "normalized": "pedro rolando morales vaca"
+  },
+  {
+    "text": "Cruz Geovanni",
+    "type": "PERSONA",
+    "start": 22972,
+    "end": 22985,
+    "normalized": "cruz geovanni"
+  },
+  {
+    "text": "Reine Gregorio Montilla Torres",
+    "type": "PERSONA",
+    "start": 23232,
+    "end": 23262,
+    "normalized": "reine gregorio montilla torres"
+  },
+  {
+    "text": "Reime Gregorio Montilla Torres",
+    "type": "PERSONA",
+    "start": 23429,
+    "end": 23459,
+    "normalized": "reime gregorio montilla torres"
+  },
+  {
+    "text": "El Arcoíris",
+    "type": "OTRO",
+    "start": 24155,
+    "end": 24166,
+    "normalized": "el arcoiris"
+  },
+  {
+    "text": "Iván Sandoval Villarreal",
+    "type": "PERSONA",
+    "start": 26996,
+    "end": 27020,
+    "normalized": "ivan sandoval villarreal"
+  },
+  {
+    "text": "Defensor Público Carchi",
+    "type": "PERSONA",
+    "start": 27099,
+    "end": 27122,
+    "normalized": "defensor publico carchi"
+  },
+  {
+    "text": "Don Gregorio",
+    "type": "PERSONA",
+    "start": 27244,
+    "end": 27256,
+    "normalized": "don gregorio"
+  },
+  {
+    "text": "Pedro Rolando Vaca Morales",
+    "type": "PERSONA",
+    "start": 28859,
+    "end": 28885,
+    "normalized": "pedro rolando vaca morales"
+  },
+  {
+    "text": "Sistema Automático",
+    "type": "PERSONA",
+    "start": 33123,
+    "end": 33141,
+    "normalized": "sistema automatico"
+  },
+  {
+    "text": "Judicial Ecuatoriano",
+    "type": "PERSONA",
+    "start": 33155,
+    "end": 33175,
+    "normalized": "judicial ecuatoriano"
+  },
+  {
+    "text": "Lucía Magdalena Cargua Ríos",
+    "type": "PERSONA",
+    "start": 34086,
+    "end": 34113,
+    "normalized": "lucia magdalena cargua rios"
+  },
+  {
+    "text": "Ramírez Marcando Nelson Rafael",
+    "type": "PERSONA",
+    "start": 34855,
+    "end": 34885,
+    "normalized": "ramirez marcando nelson rafael"
+  },
+  {
+    "text": "Montilla Campos Carlos Eduardo",
+    "type": "PERSONA",
+    "start": 34983,
+    "end": 35013,
+    "normalized": "montilla campos carlos eduardo"
+  },
+  {
+    "text": "Itas Kevin",
+    "type": "PERSONA",
+    "start": 35164,
+    "end": 35174,
+    "normalized": "itas kevin"
+  },
+  {
+    "text": "Edison Chacón",
+    "type": "PERSONA",
+    "start": 35539,
+    "end": 35552,
+    "normalized": "edison chacon"
+  },
+  {
+    "text": "Dani Bedón Brusil",
+    "type": "PERSONA",
+    "start": 35784,
+    "end": 35801,
+    "normalized": "dani bedon brusil"
+  },
+  {
+    "text": "José Maji Lamar",
+    "type": "PERSONA",
+    "start": 36229,
+    "end": 36244,
+    "normalized": "jose maji lamar"
+  },
+  {
+    "text": "John Valenci Figueroa",
+    "type": "PERSONA",
+    "start": 37216,
+    "end": 37237,
+    "normalized": "john valenci figueroa"
+  },
+  {
+    "text": "Lucía Cargua Ríos",
+    "type": "PERSONA",
+    "start": 37637,
+    "end": 37654,
+    "normalized": "lucia cargua rios"
+  },
+  {
+    "text": "Kevin Itas",
+    "type": "PERSONA",
+    "start": 38756,
+    "end": 38766,
+    "normalized": "kevin itas"
+  },
+  {
+    "text": "Pedro Rolando Morales",
+    "type": "PERSONA",
+    "start": 39028,
+    "end": 39049,
+    "normalized": "pedro rolando morales"
+  },
+  {
+    "text": "Bedón Brusil",
+    "type": "PERSONA",
+    "start": 39147,
+    "end": 39159,
+    "normalized": "bedon brusil"
+  },
+  {
+    "text": "Pedro Rolando Vaca",
+    "type": "PERSONA",
+    "start": 39305,
+    "end": 39323,
+    "normalized": "pedro rolando vaca"
+  },
+  {
+    "text": "Carlos Montilla",
+    "type": "PERSONA",
+    "start": 40400,
+    "end": 40415,
+    "normalized": "carlos montilla"
+  },
+  {
+    "text": "Carlos Mantilla",
+    "type": "PERSONA",
+    "start": 40646,
+    "end": 40661,
+    "normalized": "carlos mantilla"
+  },
+  {
+    "text": "El Art",
+    "type": "OTRO",
+    "start": 42294,
+    "end": 42300,
+    "normalized": "el art"
+  },
+  {
+    "text": "Garantías Penales",
+    "type": "OTRO",
+    "start": 43433,
+    "end": 43450,
+    "normalized": "garantias penales"
+  },
+  {
+    "text": "La Persona",
+    "type": "OTRO",
+    "start": 43985,
+    "end": 43995,
+    "normalized": "la persona"
+  },
+  {
+    "text": "Francisco Carrara",
+    "type": "PERSONA",
+    "start": 44450,
+    "end": 44467,
+    "normalized": "francisco carrara"
+  },
+  {
+    "text": "Derecho Criminal",
+    "type": "PERSONA",
+    "start": 44581,
+    "end": 44597,
+    "normalized": "derecho criminal"
+  },
+  {
+    "text": "Villa Stein",
+    "type": "PERSONA",
+    "start": 44784,
+    "end": 44795,
+    "normalized": "villa stein"
+  },
+  {
+    "text": "Cantón Montúfar",
+    "type": "PERSONA",
+    "start": 45942,
+    "end": 45957,
+    "normalized": "canton montufar"
+  },
+  {
+    "text": "Médico Forense",
+    "type": "PERSONA",
+    "start": 46301,
+    "end": 46315,
+    "normalized": "medico forense"
+  },
+  {
+    "text": "Reiner Gregorio",
+    "type": "PERSONA",
+    "start": 50561,
+    "end": 50576,
+    "normalized": "reiner gregorio"
+  },
+  {
+    "text": "Cantón Tulcán",
+    "type": "PERSONA",
+    "start": 54655,
+    "end": 54668,
+    "normalized": "canton tulcan"
+  },
+  {
+    "text": "Personas Adultas",
+    "type": "PERSONA",
+    "start": 55237,
+    "end": 55253,
+    "normalized": "personas adultas"
+  },
+  {
+    "text": "Ley Penal",
+    "type": "PERSONA",
+    "start": 55274,
+    "end": 55283,
+    "normalized": "ley penal"
+  },
+  {
+    "text": "El Código Orgánico Integral",
+    "type": "OTRO",
+    "start": 55724,
+    "end": 55751,
+    "normalized": "el codigo organico integral"
+  },
+  {
+    "text": "Estados Unidos",
+    "type": "PERSONA",
+    "start": 57852,
+    "end": 57866,
+    "normalized": "estados unidos"
+  },
+  {
+    "text": "Norte América",
+    "type": "PERSONA",
+    "start": 57870,
+    "end": 57883,
+    "normalized": "norte america"
+  },
+  {
+    "text": "Departamento Técnico",
+    "type": "PERSONA",
+    "start": 58589,
+    "end": 58609,
+    "normalized": "departamento tecnico"
+  },
+  {
+    "text": "Director Centro",
+    "type": "PERSONA",
+    "start": 58753,
+    "end": 58768,
+    "normalized": "director centro"
+  }
+]

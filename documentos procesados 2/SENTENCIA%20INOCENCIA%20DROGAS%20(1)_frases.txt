@@ -1,0 +1,79 @@
+[ARTICULO_LEGAL]
+- Art. 220
+- Art. 534
+- Art. 640
+- Art. 404
+- art. 220 del COIP
+- Art. 364
+- artículo 220
+- artículo 640
+- Art. 609
+- Art. 453
+- Art. 457
+- artículo 364
+- Art. 455 del COIP
+- Art. 5
+- Art. 621
+- Art. 76
+- Art. 77
+- Art. 42
+- Art. 455
+
+[NUMERO_CAUSA]
+- No. 11282-2022
+- No. 092
+- No. 001
+
+[ORG]
+- UNIDAD JUDICIAL
+- Fiscalía
+- Juzgado
+- Corte
+- Consejo Nacional
+
+[OTRO]
+- Juicio No
+- El Art
+- El Dr
+- Resolución Nro
+- Registro Oficial Nro
+- Registro Oficial No
+- Al Estado
+
+[PERSONA]
+- Código Orgánico Integral Penal
+- Eduardo Erazo Salgado
+- Ángel Larreategui Luzuriaga
+- Ruperto Valdez Gómez
+- Wilson Gordillo Gordillo
+- Servio Patricio Gonzalez
+- Santiago Vicente Naranjo Guartan
+- Marcelo Rodriguez Carcelén
+- Policía Luis Quezada Narváez
+- Identificación Preliminar Homologada
+- Carmen Herrera
+- Milagros Marcano Quintini
+- Perito Químico
+- Policía Judicial Subzona Azuay
+- Ángel Vinicio Larreategui Luzuriaga
+- Zamora Huayco
+- Paúl Gordillo
+- Eduardo Erazo
+- Ruperto Valdez
+- Eduardo Edmundo Erazo Salgado
+- Tebaida Loja
+- Wilson Paul Gordillo Gordillo
+- Beatriz Maldonado Tenorio
+- Perito Químico Toxicológica
+- René Cueva Ludeña
+- Perito Médico Legista
+- Avenida Eugenio Espejo
+- Segundo Suplemento
+- Sustancias Estupefacientes
+- Olando Alfonso Rodríguez
+- Joan Pico
+- Hágase Saber
+
+[LUGAR]
+- Parque Pucará
+

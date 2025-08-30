@@ -1,0 +1,471 @@
+[
+  {
+    "text": "Art. 220",
+    "type": "ARTICULO_LEGAL",
+    "start": 872,
+    "end": 880,
+    "normalized": "art. 220"
+  },
+  {
+    "text": "Art. 534",
+    "type": "ARTICULO_LEGAL",
+    "start": 1198,
+    "end": 1206,
+    "normalized": "art. 534"
+  },
+  {
+    "text": "Art. 640",
+    "type": "ARTICULO_LEGAL",
+    "start": 1269,
+    "end": 1277,
+    "normalized": "art. 640"
+  },
+  {
+    "text": "Art. 404",
+    "type": "ARTICULO_LEGAL",
+    "start": 2177,
+    "end": 2185,
+    "normalized": "art. 404"
+  },
+  {
+    "text": "art. 220 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 5246,
+    "end": 5263,
+    "normalized": "art. 220 del coip"
+  },
+  {
+    "text": "Art. 364",
+    "type": "ARTICULO_LEGAL",
+    "start": 18234,
+    "end": 18242,
+    "normalized": "art. 364"
+  },
+  {
+    "text": "artículo 220",
+    "type": "ARTICULO_LEGAL",
+    "start": 18507,
+    "end": 18519,
+    "normalized": "articulo 220"
+  },
+  {
+    "text": "artículo 640",
+    "type": "ARTICULO_LEGAL",
+    "start": 19475,
+    "end": 19487,
+    "normalized": "articulo 640"
+  },
+  {
+    "text": "Art. 609",
+    "type": "ARTICULO_LEGAL",
+    "start": 19719,
+    "end": 19727,
+    "normalized": "art. 609"
+  },
+  {
+    "text": "Art. 453",
+    "type": "ARTICULO_LEGAL",
+    "start": 19967,
+    "end": 19975,
+    "normalized": "art. 453"
+  },
+  {
+    "text": "Art. 457",
+    "type": "ARTICULO_LEGAL",
+    "start": 20514,
+    "end": 20522,
+    "normalized": "art. 457"
+  },
+  {
+    "text": "artículo 364",
+    "type": "ARTICULO_LEGAL",
+    "start": 24835,
+    "end": 24847,
+    "normalized": "articulo 364"
+  },
+  {
+    "text": "Art. 455 del COIP",
+    "type": "ARTICULO_LEGAL",
+    "start": 28619,
+    "end": 28636,
+    "normalized": "art. 455 del coip"
+  },
+  {
+    "text": "Art. 5",
+    "type": "ARTICULO_LEGAL",
+    "start": 29107,
+    "end": 29113,
+    "normalized": "art. 5"
+  },
+  {
+    "text": "Art. 621",
+    "type": "ARTICULO_LEGAL",
+    "start": 30289,
+    "end": 30297,
+    "normalized": "art. 621"
+  },
+  {
+    "text": "Art. 76",
+    "type": "ARTICULO_LEGAL",
+    "start": 30720,
+    "end": 30727,
+    "normalized": "art. 76"
+  },
+  {
+    "text": "Art. 77",
+    "type": "ARTICULO_LEGAL",
+    "start": 30881,
+    "end": 30888,
+    "normalized": "art. 77"
+  },
+  {
+    "text": "Art. 42",
+    "type": "ARTICULO_LEGAL",
+    "start": 31283,
+    "end": 31290,
+    "normalized": "art. 42"
+  },
+  {
+    "text": "Art. 455",
+    "type": "ARTICULO_LEGAL",
+    "start": 31530,
+    "end": 31538,
+    "normalized": "art. 455"
+  },
+  {
+    "text": "No. 11282-2022",
+    "type": "NUMERO_CAUSA",
+    "start": 7,
+    "end": 21,
+    "normalized": "no. 11282-2022"
+  },
+  {
+    "text": "No. 092",
+    "type": "NUMERO_CAUSA",
+    "start": 6280,
+    "end": 6287,
+    "normalized": "no. 092"
+  },
+  {
+    "text": "No. 001",
+    "type": "NUMERO_CAUSA",
+    "start": 24277,
+    "end": 24284,
+    "normalized": "no. 001"
+  },
+  {
+    "text": "UNIDAD JUDICIAL",
+    "type": "ORG",
+    "start": 28,
+    "end": 43,
+    "normalized": "unidad judicial"
+  },
+  {
+    "text": "Fiscalía",
+    "type": "ORG",
+    "start": 159,
+    "end": 167,
+    "normalized": "fiscalia"
+  },
+  {
+    "text": "Juzgado",
+    "type": "ORG",
+    "start": 2052,
+    "end": 2059,
+    "normalized": "juzgado"
+  },
+  {
+    "text": "Corte",
+    "type": "ORG",
+    "start": 17731,
+    "end": 17736,
+    "normalized": "corte"
+  },
+  {
+    "text": "Juicio No",
+    "type": "OTRO",
+    "start": 0,
+    "end": 9,
+    "normalized": "juicio no"
+  },
+  {
+    "text": "Código Orgánico Integral Penal",
+    "type": "PERSONA",
+    "start": 906,
+    "end": 936,
+    "normalized": "codigo organico integral penal"
+  },
+  {
+    "text": "El Art",
+    "type": "OTRO",
+    "start": 2525,
+    "end": 2531,
+    "normalized": "el art"
+  },
+  {
+    "text": "Eduardo Erazo Salgado",
+    "type": "PERSONA",
+    "start": 3516,
+    "end": 3537,
+    "normalized": "eduardo erazo salgado"
+  },
+  {
+    "text": "Ángel Larreategui Luzuriaga",
+    "type": "PERSONA",
+    "start": 3539,
+    "end": 3566,
+    "normalized": "angel larreategui luzuriaga"
+  },
+  {
+    "text": "Ruperto Valdez Gómez",
+    "type": "PERSONA",
+    "start": 3568,
+    "end": 3588,
+    "normalized": "ruperto valdez gomez"
+  },
+  {
+    "text": "Wilson Gordillo Gordillo",
+    "type": "PERSONA",
+    "start": 3591,
+    "end": 3615,
+    "normalized": "wilson gordillo gordillo"
+  },
+  {
+    "text": "Parque Pucará",
+    "type": "LUGAR",
+    "start": 3746,
+    "end": 3759,
+    "normalized": "parque pucara"
+  },
+  {
+    "text": "El Dr",
+    "type": "OTRO",
+    "start": 4527,
+    "end": 4532,
+    "normalized": "el dr"
+  },
+  {
+    "text": "Servio Patricio Gonzalez",
+    "type": "PERSONA",
+    "start": 4534,
+    "end": 4558,
+    "normalized": "servio patricio gonzalez"
+  },
+  {
+    "text": "Santiago Vicente Naranjo Guartan",
+    "type": "PERSONA",
+    "start": 4610,
+    "end": 4642,
+    "normalized": "santiago vicente naranjo guartan"
+  },
+  {
+    "text": "Marcelo Rodriguez Carcelén",
+    "type": "PERSONA",
+    "start": 5513,
+    "end": 5539,
+    "normalized": "marcelo rodriguez carcelen"
+  },
+  {
+    "text": "Policía Luis Quezada Narváez",
+    "type": "PERSONA",
+    "start": 6317,
+    "end": 6345,
+    "normalized": "policia luis quezada narvaez"
+  },
+  {
+    "text": "Identificación Preliminar Homologada",
+    "type": "PERSONA",
+    "start": 6682,
+    "end": 6718,
+    "normalized": "identificacion preliminar homologada"
+  },
+  {
+    "text": "Carmen Herrera",
+    "type": "PERSONA",
+    "start": 7009,
+    "end": 7023,
+    "normalized": "carmen herrera"
+  },
+  {
+    "text": "Milagros Marcano Quintini",
+    "type": "PERSONA",
+    "start": 7430,
+    "end": 7455,
+    "normalized": "milagros marcano quintini"
+  },
+  {
+    "text": "Perito Químico",
+    "type": "PERSONA",
+    "start": 7457,
+    "end": 7471,
+    "normalized": "perito quimico"
+  },
+  {
+    "text": "Policía Judicial Subzona Azuay",
+    "type": "PERSONA",
+    "start": 7513,
+    "end": 7543,
+    "normalized": "policia judicial subzona azuay"
+  },
+  {
+    "text": "Ángel Vinicio Larreategui Luzuriaga",
+    "type": "PERSONA",
+    "start": 8355,
+    "end": 8390,
+    "normalized": "angel vinicio larreategui luzuriaga"
+  },
+  {
+    "text": "Zamora Huayco",
+    "type": "PERSONA",
+    "start": 8466,
+    "end": 8479,
+    "normalized": "zamora huayco"
+  },
+  {
+    "text": "Paúl Gordillo",
+    "type": "PERSONA",
+    "start": 9224,
+    "end": 9237,
+    "normalized": "paul gordillo"
+  },
+  {
+    "text": "Eduardo Erazo",
+    "type": "PERSONA",
+    "start": 9880,
+    "end": 9893,
+    "normalized": "eduardo erazo"
+  },
+  {
+    "text": "Ruperto Valdez",
+    "type": "PERSONA",
+    "start": 9911,
+    "end": 9925,
+    "normalized": "ruperto valdez"
+  },
+  {
+    "text": "Eduardo Edmundo Erazo Salgado",
+    "type": "PERSONA",
+    "start": 10442,
+    "end": 10471,
+    "normalized": "eduardo edmundo erazo salgado"
+  },
+  {
+    "text": "Tebaida Loja",
+    "type": "PERSONA",
+    "start": 10531,
+    "end": 10543,
+    "normalized": "tebaida loja"
+  },
+  {
+    "text": "Wilson Paul Gordillo Gordillo",
+    "type": "PERSONA",
+    "start": 11359,
+    "end": 11388,
+    "normalized": "wilson paul gordillo gordillo"
+  },
+  {
+    "text": "Beatriz Maldonado Tenorio",
+    "type": "PERSONA",
+    "start": 12642,
+    "end": 12667,
+    "normalized": "beatriz maldonado tenorio"
+  },
+  {
+    "text": "Perito Químico Toxicológica",
+    "type": "PERSONA",
+    "start": 12669,
+    "end": 12696,
+    "normalized": "perito quimico toxicologica"
+  },
+  {
+    "text": "René Cueva Ludeña",
+    "type": "PERSONA",
+    "start": 13091,
+    "end": 13108,
+    "normalized": "rene cueva ludena"
+  },
+  {
+    "text": "Perito Médico Legista",
+    "type": "PERSONA",
+    "start": 13110,
+    "end": 13131,
+    "normalized": "perito medico legista"
+  },
+  {
+    "text": "Avenida Eugenio Espejo",
+    "type": "PERSONA",
+    "start": 14705,
+    "end": 14727,
+    "normalized": "avenida eugenio espejo"
+  },
+  {
+    "text": "Resolución Nro",
+    "type": "OTRO",
+    "start": 19191,
+    "end": 19205,
+    "normalized": "resolucion nro"
+  },
+  {
+    "text": "Registro Oficial Nro",
+    "type": "OTRO",
+    "start": 19225,
+    "end": 19245,
+    "normalized": "registro oficial nro"
+  },
+  {
+    "text": "Segundo Suplemento",
+    "type": "PERSONA",
+    "start": 19251,
+    "end": 19269,
+    "normalized": "segundo suplemento"
+  },
+  {
+    "text": "Consejo Nacional",
+    "type": "ORG",
+    "start": 24170,
+    "end": 24186,
+    "normalized": "consejo nacional"
+  },
+  {
+    "text": "Sustancias Estupefacientes",
+    "type": "PERSONA",
+    "start": 24201,
+    "end": 24227,
+    "normalized": "sustancias estupefacientes"
+  },
+  {
+    "text": "Registro Oficial No",
+    "type": "OTRO",
+    "start": 24260,
+    "end": 24279,
+    "normalized": "registro oficial no"
+  },
+  {
+    "text": "Al Estado",
+    "type": "OTRO",
+    "start": 27745,
+    "end": 27754,
+    "normalized": "al estado"
+  },
+  {
+    "text": "Olando Alfonso Rodríguez",
+    "type": "PERSONA",
+    "start": 29530,
+    "end": 29554,
+    "normalized": "olando alfonso rodriguez"
+  },
+  {
+    "text": "Joan Pico",
+    "type": "PERSONA",
+    "start": 29818,
+    "end": 29827,
+    "normalized": "joan pico"
+  },
+  {
+    "text": "Hágase Saber",
+    "type": "PERSONA",
+    "start": 31009,
+    "end": 31021,
+    "normalized": "hagase saber"
+  }
+]

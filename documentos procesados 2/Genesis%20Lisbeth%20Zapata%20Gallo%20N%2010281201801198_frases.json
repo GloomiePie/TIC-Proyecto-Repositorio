@@ -1,0 +1,569 @@
+[
+  {
+    "text": "ADMINISTRANDO JUSTICIA EN NOMBRE DEL PUEBLO SOBERANO DEL ECUADOR Y POR AUTORIDAD DE LA CONSTITUCIÓN Y LAS LEYES DE LA REPÚBLICA",
+    "type": "FORMULA_JUDICIAL",
+    "start": 26410,
+    "end": 26537,
+    "normalized": "administrando justicia en nombre del pueblo soberano del ecuador y por autoridad de la constitucion y las leyes de la republica"
+  },
+  {
+    "text": "07 de julio de 2018",
+    "type": "FECHA",
+    "start": 7221,
+    "end": 7240,
+    "normalized": "07 de julio de 2018"
+  },
+  {
+    "text": "7 de julio de 2018",
+    "type": "FECHA",
+    "start": 21611,
+    "end": 21629,
+    "normalized": "7 de julio de 2018"
+  },
+  {
+    "text": "artículo 622",
+    "type": "ARTICULO_LEGAL",
+    "start": 568,
+    "end": 580,
+    "normalized": "articulo 622"
+  },
+  {
+    "text": "artículo 225",
+    "type": "ARTICULO_LEGAL",
+    "start": 820,
+    "end": 832,
+    "normalized": "articulo 225"
+  },
+  {
+    "text": "artículo 637",
+    "type": "ARTICULO_LEGAL",
+    "start": 1390,
+    "end": 1402,
+    "normalized": "articulo 637"
+  },
+  {
+    "text": "artículo 635",
+    "type": "ARTICULO_LEGAL",
+    "start": 1559,
+    "end": 1571,
+    "normalized": "articulo 635"
+  },
+  {
+    "text": "artículo 220",
+    "type": "ARTICULO_LEGAL",
+    "start": 3081,
+    "end": 3093,
+    "normalized": "articulo 220"
+  },
+  {
+    "text": "artículo 636",
+    "type": "ARTICULO_LEGAL",
+    "start": 4613,
+    "end": 4625,
+    "normalized": "articulo 636"
+  },
+  {
+    "text": "artículo 70",
+    "type": "ARTICULO_LEGAL",
+    "start": 4926,
+    "end": 4937,
+    "normalized": "articulo 70"
+  },
+  {
+    "text": "artículo 509",
+    "type": "ARTICULO_LEGAL",
+    "start": 5856,
+    "end": 5868,
+    "normalized": "articulo 509"
+  },
+  {
+    "text": "artículo 620",
+    "type": "ARTICULO_LEGAL",
+    "start": 6207,
+    "end": 6219,
+    "normalized": "articulo 620"
+  },
+  {
+    "text": "Art. 455",
+    "type": "ARTICULO_LEGAL",
+    "start": 21040,
+    "end": 21048,
+    "normalized": "art. 455"
+  },
+  {
+    "text": "Art. 453",
+    "type": "ARTICULO_LEGAL",
+    "start": 22273,
+    "end": 22281,
+    "normalized": "art. 453"
+  },
+  {
+    "text": "Art. 220",
+    "type": "ARTICULO_LEGAL",
+    "start": 22508,
+    "end": 22516,
+    "normalized": "art. 220"
+  },
+  {
+    "text": "Art.220",
+    "type": "ARTICULO_LEGAL",
+    "start": 23473,
+    "end": 23480,
+    "normalized": "art.220"
+  },
+  {
+    "text": "art. 32",
+    "type": "ARTICULO_LEGAL",
+    "start": 23596,
+    "end": 23603,
+    "normalized": "art. 32"
+  },
+  {
+    "text": "artículo 3",
+    "type": "ARTICULO_LEGAL",
+    "start": 23667,
+    "end": 23677,
+    "normalized": "articulo 3"
+  },
+  {
+    "text": "Art. 76",
+    "type": "ARTICULO_LEGAL",
+    "start": 25249,
+    "end": 25256,
+    "normalized": "art. 76"
+  },
+  {
+    "text": "artículo 5",
+    "type": "ARTICULO_LEGAL",
+    "start": 26061,
+    "end": 26071,
+    "normalized": "articulo 5"
+  },
+  {
+    "text": "artículo 453",
+    "type": "ARTICULO_LEGAL",
+    "start": 26159,
+    "end": 26171,
+    "normalized": "articulo 453"
+  },
+  {
+    "text": "artículo 69",
+    "type": "ARTICULO_LEGAL",
+    "start": 29468,
+    "end": 29479,
+    "normalized": "articulo 69"
+  },
+  {
+    "text": "No. 2018",
+    "type": "NUMERO_CAUSA",
+    "start": 221,
+    "end": 229,
+    "normalized": "no. 2018"
+  },
+  {
+    "text": "No. 123",
+    "type": "NUMERO_CAUSA",
+    "start": 944,
+    "end": 951,
+    "normalized": "no. 123"
+  },
+  {
+    "text": "No. 099",
+    "type": "NUMERO_CAUSA",
+    "start": 1054,
+    "end": 1061,
+    "normalized": "no. 099"
+  },
+  {
+    "text": "No 2018",
+    "type": "NUMERO_CAUSA",
+    "start": 6930,
+    "end": 6937,
+    "normalized": "no 2018"
+  },
+  {
+    "text": "No 10",
+    "type": "NUMERO_CAUSA",
+    "start": 6951,
+    "end": 6956,
+    "normalized": "no 10"
+  },
+  {
+    "text": "NO. 10281",
+    "type": "NUMERO_CAUSA",
+    "start": 12092,
+    "end": 12101,
+    "normalized": "no. 10281"
+  },
+  {
+    "text": "UNIDAD JUDICIAL",
+    "type": "ORG",
+    "start": 0,
+    "end": 15,
+    "normalized": "unidad judicial"
+  },
+  {
+    "text": "fiscalía",
+    "type": "ORG",
+    "start": 252,
+    "end": 260,
+    "normalized": "fiscalia"
+  },
+  {
+    "text": "Consejo de la Judicatura",
+    "type": "ORG",
+    "start": 982,
+    "end": 1006,
+    "normalized": "consejo de la judicatura"
+  },
+  {
+    "text": "juzgado",
+    "type": "ORG",
+    "start": 1106,
+    "end": 1113,
+    "normalized": "juzgado"
+  },
+  {
+    "text": "tribunal",
+    "type": "ORG",
+    "start": 6412,
+    "end": 6420,
+    "normalized": "tribunal"
+  },
+  {
+    "text": "Dirección",
+    "type": "ORG",
+    "start": 7094,
+    "end": 7103,
+    "normalized": "direccion"
+  },
+  {
+    "text": "Ministerio",
+    "type": "ORG",
+    "start": 27277,
+    "end": 27287,
+    "normalized": "ministerio"
+  },
+  {
+    "text": "comisión",
+    "type": "ORG",
+    "start": 28480,
+    "end": 28488,
+    "normalized": "comision"
+  },
+  {
+    "text": "Corte",
+    "type": "ORG",
+    "start": 28999,
+    "end": 29004,
+    "normalized": "corte"
+  },
+  {
+    "text": "Código Orgánico",
+    "type": "PERSONA",
+    "start": 503,
+    "end": 518,
+    "normalized": "codigo organico"
+  },
+  {
+    "text": "Función Judicial",
+    "type": "ORG",
+    "start": 525,
+    "end": 541,
+    "normalized": "funcion judicial"
+  },
+  {
+    "text": "Código Integral Penal",
+    "type": "PERSONA",
+    "start": 586,
+    "end": 607,
+    "normalized": "codigo integral penal"
+  },
+  {
+    "text": "Resolución No",
+    "type": "OTRO",
+    "start": 933,
+    "end": 946,
+    "normalized": "resolucion no"
+  },
+  {
+    "text": "Registro Oficial Suplemento No",
+    "type": "OTRO",
+    "start": 1026,
+    "end": 1056,
+    "normalized": "registro oficial suplemento no"
+  },
+  {
+    "text": "Código Orgánico Integral Penal",
+    "type": "PERSONA",
+    "start": 1251,
+    "end": 1281,
+    "normalized": "codigo organico integral penal"
+  },
+  {
+    "text": "Procedimiento Abreviado",
+    "type": "PERSONA",
+    "start": 1447,
+    "end": 1470,
+    "normalized": "procedimiento abreviado"
+  },
+  {
+    "text": "Marcelo Vásquez",
+    "type": "PERSONA",
+    "start": 3334,
+    "end": 3349,
+    "normalized": "marcelo vasquez"
+  },
+  {
+    "text": "Fiscal Dr",
+    "type": "PERSONA",
+    "start": 4734,
+    "end": 4743,
+    "normalized": "fiscal dr"
+  },
+  {
+    "text": "Edgar Pacheco",
+    "type": "PERSONA",
+    "start": 4745,
+    "end": 4758,
+    "normalized": "edgar pacheco"
+  },
+  {
+    "text": "Panamericana Norte",
+    "type": "PERSONA",
+    "start": 7314,
+    "end": 7332,
+    "normalized": "panamericana norte"
+  },
+  {
+    "text": "Control Integrado",
+    "type": "PERSONA",
+    "start": 7350,
+    "end": 7367,
+    "normalized": "control integrado"
+  },
+  {
+    "text": "Centro Regional De Adiestramiento",
+    "type": "PERSONA",
+    "start": 7476,
+    "end": 7509,
+    "normalized": "centro regional de adiestramiento"
+  },
+  {
+    "text": "Gustavo Torres",
+    "type": "PERSONA",
+    "start": 8912,
+    "end": 8926,
+    "normalized": "gustavo torres"
+  },
+  {
+    "text": "Unidad Antinarcóticos Zona",
+    "type": "ORG",
+    "start": 9306,
+    "end": 9332,
+    "normalized": "unidad antinarcoticos zona"
+  },
+  {
+    "text": "Subzona Imbabura",
+    "type": "PERSONA",
+    "start": 9335,
+    "end": 9351,
+    "normalized": "subzona imbabura"
+  },
+  {
+    "text": "Sr Sgos",
+    "type": "PERSONA",
+    "start": 9441,
+    "end": 9448,
+    "normalized": "sr sgos"
+  },
+  {
+    "text": "Sr Cbos Edison Arteaga",
+    "type": "PERSONA",
+    "start": 9473,
+    "end": 9495,
+    "normalized": "sr cbos edison arteaga"
+  },
+  {
+    "text": "Unidad Antinarcóticos",
+    "type": "ORG",
+    "start": 10025,
+    "end": 10046,
+    "normalized": "unidad antinarcoticos"
+  },
+  {
+    "text": "Edison Arteaga",
+    "type": "PERSONA",
+    "start": 11766,
+    "end": 11780,
+    "normalized": "edison arteaga"
+  },
+  {
+    "text": "Rocío Villa Cuji",
+    "type": "PERSONA",
+    "start": 11880,
+    "end": 11896,
+    "normalized": "rocio villa cuji"
+  },
+  {
+    "text": "Milagros Marcano Quintini",
+    "type": "PERSONA",
+    "start": 11900,
+    "end": 11925,
+    "normalized": "milagros marcano quintini"
+  },
+  {
+    "text": "El Cloruro",
+    "type": "OTRO",
+    "start": 12193,
+    "end": 12203,
+    "normalized": "el cloruro"
+  },
+  {
+    "text": "Señora Fiscal",
+    "type": "PERSONA",
+    "start": 12442,
+    "end": 12455,
+    "normalized": "senora fiscal"
+  },
+  {
+    "text": "Zapata Gallo Lenin Ramiro",
+    "type": "PERSONA",
+    "start": 12813,
+    "end": 12838,
+    "normalized": "zapata gallo lenin ramiro"
+  },
+  {
+    "text": "Fenómeno Socioeconómico Drogas",
+    "type": "PERSONA",
+    "start": 13621,
+    "end": 13651,
+    "normalized": "fenomeno socioeconomico drogas"
+  },
+  {
+    "text": "Unidas Canina Antinarcóticos",
+    "type": "PERSONA",
+    "start": 14323,
+    "end": 14351,
+    "normalized": "unidas canina antinarcoticos"
+  },
+  {
+    "text": "Fernando Chicaiza",
+    "type": "PERSONA",
+    "start": 15042,
+    "end": 15059,
+    "normalized": "fernando chicaiza"
+  },
+  {
+    "text": "Carlos Moya",
+    "type": "PERSONA",
+    "start": 15314,
+    "end": 15325,
+    "normalized": "carlos moya"
+  },
+  {
+    "text": "Jefe Carlos Moya",
+    "type": "PERSONA",
+    "start": 16475,
+    "end": 16491,
+    "normalized": "jefe carlos moya"
+  },
+  {
+    "text": "María Gallo",
+    "type": "PERSONA",
+    "start": 17724,
+    "end": 17735,
+    "normalized": "maria gallo"
+  },
+  {
+    "text": "Era Un",
+    "type": "PERSONA",
+    "start": 19597,
+    "end": 19603,
+    "normalized": "era un"
+  },
+  {
+    "text": "El Art",
+    "type": "OTRO",
+    "start": 21037,
+    "end": 21043,
+    "normalized": "el art"
+  },
+  {
+    "text": "Disposición Constitucional",
+    "type": "OTRO",
+    "start": 23527,
+    "end": 23553,
+    "normalized": "disposicion constitucional"
+  },
+  {
+    "text": "Naciones Unidas",
+    "type": "PERSONA",
+    "start": 23725,
+    "end": 23740,
+    "normalized": "naciones unidas"
+  },
+  {
+    "text": "Tráfico Ilícito",
+    "type": "PERSONA",
+    "start": 23751,
+    "end": 23766,
+    "normalized": "trafico ilicito"
+  },
+  {
+    "text": "Derecho Constitucional",
+    "type": "OTRO",
+    "start": 25749,
+    "end": 25771,
+    "normalized": "derecho constitucional"
+  },
+  {
+    "text": "Celeridad Procesal",
+    "type": "PERSONA",
+    "start": 25799,
+    "end": 25817,
+    "normalized": "celeridad procesal"
+  },
+  {
+    "text": "Mínima Intervención",
+    "type": "PERSONA",
+    "start": 25836,
+    "end": 25855,
+    "normalized": "minima intervencion"
+  },
+  {
+    "text": "Personas Adultas",
+    "type": "PERSONA",
+    "start": 27181,
+    "end": 27197,
+    "normalized": "personas adultas"
+  },
+  {
+    "text": "Organismo Técnico",
+    "type": "PERSONA",
+    "start": 27255,
+    "end": 27272,
+    "normalized": "organismo tecnico"
+  },
+  {
+    "text": "Justica Derechos Humanos",
+    "type": "PERSONA",
+    "start": 27291,
+    "end": 27315,
+    "normalized": "justica derechos humanos"
+  },
+  {
+    "text": "Consejo Nacional Electoral",
+    "type": "ORG",
+    "start": 27542,
+    "end": 27568,
+    "normalized": "consejo nacional electoral"
+  },
+  {
+    "text": "Salarios Básicos Unificados",
+    "type": "ORG",
+    "start": 27718,
+    "end": 27745,
+    "normalized": "salarios basicos unificados"
+  }
+]

@@ -1,0 +1,856 @@
+[
+  {
+    "text": "ADMINISTRANDO JUSTICIA EN NOMBRE DEL PUEBLO SOBERANO DEL ECUADOR, Y POR AUTORIDAD DE LA CONSTITUCION Y LAS LEYES DE LA REPUBLICA, declaramos a HENRY LAZARO LINO SUAREZ, de nacional",
+    "type": "FORMULA_JUDICIAL",
+    "start": 40152,
+    "end": 40332,
+    "normalized": "administrando justicia en nombre del pueblo soberano del ecuador, y por autoridad de la constitucion y las leyes de la republica, declaramos a henry lazaro lino suarez, de nacional"
+  },
+  {
+    "text": "artículo 144",
+    "type": "ARTICULO_LEGAL",
+    "start": 613,
+    "end": 625,
+    "normalized": "articulo 144"
+  },
+  {
+    "text": "artículo 39",
+    "type": "ARTICULO_LEGAL",
+    "start": 649,
+    "end": 660,
+    "normalized": "articulo 39"
+  },
+  {
+    "text": "artículo 621",
+    "type": "ARTICULO_LEGAL",
+    "start": 2437,
+    "end": 2449,
+    "normalized": "articulo 621"
+  },
+  {
+    "text": "artículo 619",
+    "type": "ARTICULO_LEGAL",
+    "start": 2539,
+    "end": 2551,
+    "normalized": "articulo 619"
+  },
+  {
+    "text": "artículo 614",
+    "type": "ARTICULO_LEGAL",
+    "start": 3005,
+    "end": 3017,
+    "normalized": "articulo 614"
+  },
+  {
+    "text": "art. 144",
+    "type": "ARTICULO_LEGAL",
+    "start": 4681,
+    "end": 4689,
+    "normalized": "art. 144"
+  },
+  {
+    "text": "artículo 615",
+    "type": "ARTICULO_LEGAL",
+    "start": 6057,
+    "end": 6069,
+    "normalized": "articulo 615"
+  },
+  {
+    "text": "artículo 612",
+    "type": "ARTICULO_LEGAL",
+    "start": 19450,
+    "end": 19462,
+    "normalized": "articulo 612"
+  },
+  {
+    "text": "artículo 618",
+    "type": "ARTICULO_LEGAL",
+    "start": 23078,
+    "end": 23090,
+    "normalized": "articulo 618"
+  },
+  {
+    "text": "artículo 609",
+    "type": "ARTICULO_LEGAL",
+    "start": 24106,
+    "end": 24118,
+    "normalized": "articulo 609"
+  },
+  {
+    "text": "artículo 168",
+    "type": "ARTICULO_LEGAL",
+    "start": 24479,
+    "end": 24491,
+    "normalized": "articulo 168"
+  },
+  {
+    "text": "artículo 85",
+    "type": "ARTICULO_LEGAL",
+    "start": 24798,
+    "end": 24809,
+    "normalized": "articulo 85"
+  },
+  {
+    "text": "artículo 250",
+    "type": "ARTICULO_LEGAL",
+    "start": 24980,
+    "end": 24992,
+    "normalized": "articulo 250"
+  },
+  {
+    "text": "artículo 252",
+    "type": "ARTICULO_LEGAL",
+    "start": 25235,
+    "end": 25247,
+    "normalized": "articulo 252"
+  },
+  {
+    "text": "artículo 119",
+    "type": "ARTICULO_LEGAL",
+    "start": 25851,
+    "end": 25863,
+    "normalized": "articulo 119"
+  },
+  {
+    "text": "artículo 253",
+    "type": "ARTICULO_LEGAL",
+    "start": 25888,
+    "end": 25900,
+    "normalized": "articulo 253"
+  },
+  {
+    "text": "artículo 76",
+    "type": "ARTICULO_LEGAL",
+    "start": 26202,
+    "end": 26213,
+    "normalized": "articulo 76"
+  },
+  {
+    "text": "artículo 83",
+    "type": "ARTICULO_LEGAL",
+    "start": 27048,
+    "end": 27059,
+    "normalized": "articulo 83"
+  },
+  {
+    "text": "artículo 8",
+    "type": "ARTICULO_LEGAL",
+    "start": 27792,
+    "end": 27802,
+    "normalized": "articulo 8"
+  },
+  {
+    "text": "artículo 75",
+    "type": "ARTICULO_LEGAL",
+    "start": 29966,
+    "end": 29977,
+    "normalized": "articulo 75"
+  },
+  {
+    "text": "artículo 453",
+    "type": "ARTICULO_LEGAL",
+    "start": 33449,
+    "end": 33461,
+    "normalized": "articulo 453"
+  },
+  {
+    "text": "articulo 454",
+    "type": "ARTICULO_LEGAL",
+    "start": 33708,
+    "end": 33720,
+    "normalized": "articulo 454"
+  },
+  {
+    "text": "artículo 455",
+    "type": "ARTICULO_LEGAL",
+    "start": 36241,
+    "end": 36253,
+    "normalized": "articulo 455"
+  },
+  {
+    "text": "artículo 5",
+    "type": "ARTICULO_LEGAL",
+    "start": 38640,
+    "end": 38650,
+    "normalized": "articulo 5"
+  },
+  {
+    "text": "No. 09290-2021",
+    "type": "NUMERO_CAUSA",
+    "start": 7,
+    "end": 21,
+    "normalized": "no. 09290-2021"
+  },
+  {
+    "text": "Nº 007-09",
+    "type": "NUMERO_CAUSA",
+    "start": 28644,
+    "end": 28653,
+    "normalized": "nº 007-09"
+  },
+  {
+    "text": "Nº 002-08",
+    "type": "NUMERO_CAUSA",
+    "start": 29150,
+    "end": 29159,
+    "normalized": "nº 002-08"
+  },
+  {
+    "text": "N° 036-13",
+    "type": "NUMERO_CAUSA",
+    "start": 30034,
+    "end": 30043,
+    "normalized": "n° 036-13"
+  },
+  {
+    "text": "N° 1646-10",
+    "type": "NUMERO_CAUSA",
+    "start": 30056,
+    "end": 30066,
+    "normalized": "n° 1646-10"
+  },
+  {
+    "text": "Nº 0144-08",
+    "type": "NUMERO_CAUSA",
+    "start": 30671,
+    "end": 30681,
+    "normalized": "nº 0144-08"
+  },
+  {
+    "text": "Nº 069-10",
+    "type": "NUMERO_CAUSA",
+    "start": 30995,
+    "end": 31004,
+    "normalized": "nº 069-10"
+  },
+  {
+    "text": "TRIBUNAL",
+    "type": "ORG",
+    "start": 113,
+    "end": 121,
+    "normalized": "tribunal"
+  },
+  {
+    "text": "Unidad Judicial",
+    "type": "ORG",
+    "start": 347,
+    "end": 362,
+    "normalized": "unidad judicial"
+  },
+  {
+    "text": "secretaria",
+    "type": "ORG",
+    "start": 1215,
+    "end": 1225,
+    "normalized": "secretaria"
+  },
+  {
+    "text": "fiscalía",
+    "type": "ORG",
+    "start": 3348,
+    "end": 3356,
+    "normalized": "fiscalia"
+  },
+  {
+    "text": "juzgado",
+    "type": "ORG",
+    "start": 8273,
+    "end": 8280,
+    "normalized": "juzgado"
+  },
+  {
+    "text": "comisión",
+    "type": "ORG",
+    "start": 26581,
+    "end": 26589,
+    "normalized": "comision"
+  },
+  {
+    "text": "Corte",
+    "type": "ORG",
+    "start": 28623,
+    "end": 28628,
+    "normalized": "corte"
+  },
+  {
+    "text": "Juicio No",
+    "type": "OTRO",
+    "start": 0,
+    "end": 9,
+    "normalized": "juicio no"
+  },
+  {
+    "text": "Carlos Eduardo Flores Iñiguez",
+    "type": "PERSONA",
+    "start": 441,
+    "end": 470,
+    "normalized": "carlos eduardo flores iniguez"
+  },
+  {
+    "text": "Código Orgánico Integral Penal",
+    "type": "PERSONA",
+    "start": 666,
+    "end": 696,
+    "normalized": "codigo organico integral penal"
+  },
+  {
+    "text": "Wilson Javier Ávila Leon",
+    "type": "PERSONA",
+    "start": 766,
+    "end": 790,
+    "normalized": "wilson javier avila leon"
+  },
+  {
+    "text": "Garantías Penales",
+    "type": "OTRO",
+    "start": 1033,
+    "end": 1050,
+    "normalized": "garantias penales"
+  },
+  {
+    "text": "Kelttya López Burgos",
+    "type": "PERSONA",
+    "start": 1113,
+    "end": 1133,
+    "normalized": "kelttya lopez burgos"
+  },
+  {
+    "text": "Mónica Abad Mariscal",
+    "type": "PERSONA",
+    "start": 1162,
+    "end": 1182,
+    "normalized": "monica abad mariscal"
+  },
+  {
+    "text": "Dora Vargas Troncoso",
+    "type": "PERSONA",
+    "start": 1188,
+    "end": 1208,
+    "normalized": "dora vargas troncoso"
+  },
+  {
+    "text": "Karen Delgado Caguana",
+    "type": "PERSONA",
+    "start": 1230,
+    "end": 1251,
+    "normalized": "karen delgado caguana"
+  },
+  {
+    "text": "Fiscal Ab",
+    "type": "PERSONA",
+    "start": 1936,
+    "end": 1945,
+    "normalized": "fiscal ab"
+  },
+  {
+    "text": "Washington Francisco Suarez Saltos",
+    "type": "PERSONA",
+    "start": 1947,
+    "end": 1981,
+    "normalized": "washington francisco suarez saltos"
+  },
+  {
+    "text": "Jessenia Eulalia Lino Suarez",
+    "type": "PERSONA",
+    "start": 1995,
+    "end": 2023,
+    "normalized": "jessenia eulalia lino suarez"
+  },
+  {
+    "text": "Cristhian Hernán Alonzo Tigse",
+    "type": "PERSONA",
+    "start": 2196,
+    "end": 2225,
+    "normalized": "cristhian hernan alonzo tigse"
+  },
+  {
+    "text": "Cristina Cordero",
+    "type": "PERSONA",
+    "start": 2306,
+    "end": 2322,
+    "normalized": "cristina cordero"
+  },
+  {
+    "text": "Al Presentar",
+    "type": "PERSONA",
+    "start": 2928,
+    "end": 2940,
+    "normalized": "al presentar"
+  },
+  {
+    "text": "Marcelo Vélez",
+    "type": "PERSONA",
+    "start": 3265,
+    "end": 3278,
+    "normalized": "marcelo velez"
+  },
+  {
+    "text": "Andrade Lino Joseline",
+    "type": "PERSONA",
+    "start": 3456,
+    "end": 3477,
+    "normalized": "andrade lino joseline"
+  },
+  {
+    "text": "Jesenia Eulalia Lino Suarez",
+    "type": "PERSONA",
+    "start": 3486,
+    "end": 3513,
+    "normalized": "jesenia eulalia lino suarez"
+  },
+  {
+    "text": "Lino Suarez Jesenia Eulalia",
+    "type": "PERSONA",
+    "start": 3654,
+    "end": 3681,
+    "normalized": "lino suarez jesenia eulalia"
+  },
+  {
+    "text": "Eloy Procesado Lino Suarez",
+    "type": "PERSONA",
+    "start": 3745,
+    "end": 3771,
+    "normalized": "eloy procesado lino suarez"
+  },
+  {
+    "text": "Henry Lázaro",
+    "type": "PERSONA",
+    "start": 3772,
+    "end": 3784,
+    "normalized": "henry lazaro"
+  },
+  {
+    "text": "Eduardo Lino Suarez",
+    "type": "PERSONA",
+    "start": 3798,
+    "end": 3817,
+    "normalized": "eduardo lino suarez"
+  },
+  {
+    "text": "Lino Suarez",
+    "type": "PERSONA",
+    "start": 4415,
+    "end": 4426,
+    "normalized": "lino suarez"
+  },
+  {
+    "text": "Lino Suarez Henry Lázaro",
+    "type": "PERSONA",
+    "start": 4442,
+    "end": 4466,
+    "normalized": "lino suarez henry lazaro"
+  },
+  {
+    "text": "General Villamil Playa",
+    "type": "PERSONA",
+    "start": 6478,
+    "end": 6500,
+    "normalized": "general villamil playa"
+  },
+  {
+    "text": "Henry Lázaro Lino Suarez",
+    "type": "PERSONA",
+    "start": 6745,
+    "end": 6769,
+    "normalized": "henry lazaro lino suarez"
+  },
+  {
+    "text": "Eduardo Javier Lino Suarez",
+    "type": "PERSONA",
+    "start": 6772,
+    "end": 6798,
+    "normalized": "eduardo javier lino suarez"
+  },
+  {
+    "text": "Joseline Andrade",
+    "type": "PERSONA",
+    "start": 7270,
+    "end": 7286,
+    "normalized": "joseline andrade"
+  },
+  {
+    "text": "Mayra Alejandra Jaramillo",
+    "type": "PERSONA",
+    "start": 7298,
+    "end": 7323,
+    "normalized": "mayra alejandra jaramillo"
+  },
+  {
+    "text": "Cecilia Lino Suarez",
+    "type": "PERSONA",
+    "start": 7337,
+    "end": 7356,
+    "normalized": "cecilia lino suarez"
+  },
+  {
+    "text": "Jesenia Eulalia",
+    "type": "PERSONA",
+    "start": 11106,
+    "end": 11121,
+    "normalized": "jesenia eulalia"
+  },
+  {
+    "text": "Playas Villamil Barrio Ecuador",
+    "type": "PERSONA",
+    "start": 12107,
+    "end": 12137,
+    "normalized": "playas villamil barrio ecuador"
+  },
+  {
+    "text": "Cecilia Lino",
+    "type": "PERSONA",
+    "start": 12255,
+    "end": 12267,
+    "normalized": "cecilia lino"
+  },
+  {
+    "text": "Maira Jaramillo",
+    "type": "PERSONA",
+    "start": 12286,
+    "end": 12301,
+    "normalized": "maira jaramillo"
+  },
+  {
+    "text": "Henry Lino",
+    "type": "PERSONA",
+    "start": 12587,
+    "end": 12597,
+    "normalized": "henry lino"
+  },
+  {
+    "text": "Eduardo Lino",
+    "type": "PERSONA",
+    "start": 12600,
+    "end": 12612,
+    "normalized": "eduardo lino"
+  },
+  {
+    "text": "Alex Lino",
+    "type": "PERSONA",
+    "start": 12792,
+    "end": 12801,
+    "normalized": "alex lino"
+  },
+  {
+    "text": "Caracol Playas Villamil",
+    "type": "PERSONA",
+    "start": 13888,
+    "end": 13911,
+    "normalized": "caracol playas villamil"
+  },
+  {
+    "text": "Jesenia Lino",
+    "type": "PERSONA",
+    "start": 14128,
+    "end": 14140,
+    "normalized": "jesenia lino"
+  },
+  {
+    "text": "Joselyn Andrade",
+    "type": "PERSONA",
+    "start": 14500,
+    "end": 14515,
+    "normalized": "joselyn andrade"
+  },
+  {
+    "text": "Henry Lino Suarez",
+    "type": "PERSONA",
+    "start": 15720,
+    "end": 15737,
+    "normalized": "henry lino suarez"
+  },
+  {
+    "text": "Villamil Playas Barrio Ecuador",
+    "type": "PERSONA",
+    "start": 16987,
+    "end": 17017,
+    "normalized": "villamil playas barrio ecuador"
+  },
+  {
+    "text": "Vera Pérez Jose Antonio",
+    "type": "PERSONA",
+    "start": 19021,
+    "end": 19044,
+    "normalized": "vera perez jose antonio"
+  },
+  {
+    "text": "Del Pezo Apolinario Jaime",
+    "type": "OTRO",
+    "start": 19046,
+    "end": 19071,
+    "normalized": "del pezo apolinario jaime"
+  },
+  {
+    "text": "Villacis Hidalgo William",
+    "type": "PERSONA",
+    "start": 19081,
+    "end": 19105,
+    "normalized": "villacis hidalgo william"
+  },
+  {
+    "text": "Murillo Medina Jefferson",
+    "type": "PERSONA",
+    "start": 19107,
+    "end": 19131,
+    "normalized": "murillo medina jefferson"
+  },
+  {
+    "text": "Mina Quintero Marlon",
+    "type": "PERSONA",
+    "start": 19133,
+    "end": 19153,
+    "normalized": "mina quintero marlon"
+  },
+  {
+    "text": "Méndez Ortiz Jordany Javier",
+    "type": "PERSONA",
+    "start": 19155,
+    "end": 19182,
+    "normalized": "mendez ortiz jordany javier"
+  },
+  {
+    "text": "Gustavo Román",
+    "type": "PERSONA",
+    "start": 19203,
+    "end": 19216,
+    "normalized": "gustavo roman"
+  },
+  {
+    "text": "Lino Suarez Yesenia",
+    "type": "PERSONA",
+    "start": 20428,
+    "end": 20447,
+    "normalized": "lino suarez yesenia"
+  },
+  {
+    "text": "William Villacis",
+    "type": "PERSONA",
+    "start": 20612,
+    "end": 20628,
+    "normalized": "william villacis"
+  },
+  {
+    "text": "Jordany Méndez",
+    "type": "PERSONA",
+    "start": 20631,
+    "end": 20645,
+    "normalized": "jordany mendez"
+  },
+  {
+    "text": "Servicio Urbano",
+    "type": "PERSONA",
+    "start": 21686,
+    "end": 21701,
+    "normalized": "servicio urbano"
+  },
+  {
+    "text": "Playas Villamil",
+    "type": "PERSONA",
+    "start": 22808,
+    "end": 22823,
+    "normalized": "playas villamil"
+  },
+  {
+    "text": "Andrade Lino Joselyn",
+    "type": "PERSONA",
+    "start": 23481,
+    "end": 23501,
+    "normalized": "andrade lino joselyn"
+  },
+  {
+    "text": "Mayra Lino",
+    "type": "PERSONA",
+    "start": 23531,
+    "end": 23541,
+    "normalized": "mayra lino"
+  },
+  {
+    "text": "Jessica Eulalia Lino Suarez",
+    "type": "PERSONA",
+    "start": 23543,
+    "end": 23570,
+    "normalized": "jessica eulalia lino suarez"
+  },
+  {
+    "text": "Gustavo Román García",
+    "type": "PERSONA",
+    "start": 23576,
+    "end": 23596,
+    "normalized": "gustavo roman garcia"
+  },
+  {
+    "text": "Orgánico Integral Penal",
+    "type": "PERSONA",
+    "start": 24130,
+    "end": 24153,
+    "normalized": "organico integral penal"
+  },
+  {
+    "text": "Procedimiento Penal",
+    "type": "PERSONA",
+    "start": 24824,
+    "end": 24843,
+    "normalized": "procedimiento penal"
+  },
+  {
+    "text": "Declaraciones Internacionales",
+    "type": "OTRO",
+    "start": 26408,
+    "end": 26437,
+    "normalized": "declaraciones internacionales"
+  },
+  {
+    "text": "Derechos Humanos",
+    "type": "PERSONA",
+    "start": 26441,
+    "end": 26457,
+    "normalized": "derechos humanos"
+  },
+  {
+    "text": "Estado Constitucional",
+    "type": "OTRO",
+    "start": 27327,
+    "end": 27348,
+    "normalized": "estado constitucional"
+  },
+  {
+    "text": "Garantías Judiciales",
+    "type": "OTRO",
+    "start": 27752,
+    "end": 27772,
+    "normalized": "garantias judiciales"
+  },
+  {
+    "text": "Convención Americana Sobre Derechos",
+    "type": "PERSONA",
+    "start": 27809,
+    "end": 27844,
+    "normalized": "convencion americana sobre derechos"
+  },
+  {
+    "text": "San José",
+    "type": "LUGAR",
+    "start": 27863,
+    "end": 27871,
+    "normalized": "san jose"
+  },
+  {
+    "text": "Función Judicial",
+    "type": "ORG",
+    "start": 28290,
+    "end": 28306,
+    "normalized": "funcion judicial"
+  },
+  {
+    "text": "Un Estado Constitucional",
+    "type": "OTRO",
+    "start": 28553,
+    "end": 28577,
+    "normalized": "un estado constitucional"
+  },
+  {
+    "text": "Registro Oficial Suplemento",
+    "type": "OTRO",
+    "start": 28695,
+    "end": 28722,
+    "normalized": "registro oficial suplemento"
+  },
+  {
+    "text": "Carta Fundamental",
+    "type": "PERSONA",
+    "start": 28950,
+    "end": 28967,
+    "normalized": "carta fundamental"
+  },
+  {
+    "text": "Carta Internacional",
+    "type": "PERSONA",
+    "start": 28973,
+    "end": 28992,
+    "normalized": "carta internacional"
+  },
+  {
+    "text": "Carta Magna",
+    "type": "PERSONA",
+    "start": 29984,
+    "end": 29995,
+    "normalized": "carta magna"
+  },
+  {
+    "text": "Registro Oficial",
+    "type": "OTRO",
+    "start": 30716,
+    "end": 30732,
+    "normalized": "registro oficial"
+  },
+  {
+    "text": "Código Orgánico",
+    "type": "PERSONA",
+    "start": 31341,
+    "end": 31356,
+    "normalized": "codigo organico"
+  },
+  {
+    "text": "Principios Rectores",
+    "type": "PERSONA",
+    "start": 31405,
+    "end": 31424,
+    "normalized": "principios rectores"
+  },
+  {
+    "text": "Disposiciones Fundamentales",
+    "type": "OTRO",
+    "start": 31427,
+    "end": 31454,
+    "normalized": "disposiciones fundamentales"
+  },
+  {
+    "text": "Capitulo Primero",
+    "type": "PERSONA",
+    "start": 33395,
+    "end": 33411,
+    "normalized": "capitulo primero"
+  },
+  {
+    "text": "Disposiciones Generales",
+    "type": "OTRO",
+    "start": 33423,
+    "end": 33446,
+    "normalized": "disposiciones generales"
+  },
+  {
+    "text": "Juan Montero Aroca",
+    "type": "PERSONA",
+    "start": 37188,
+    "end": 37206,
+    "normalized": "juan montero aroca"
+  },
+  {
+    "text": "Policía Judicial",
+    "type": "PERSONA",
+    "start": 40866,
+    "end": 40882,
+    "normalized": "policia judicial"
+  },
+  {
+    "text": "Apoyo Migratorio",
+    "type": "PERSONA",
+    "start": 41089,
+    "end": 41105,
+    "normalized": "apoyo migratorio"
+  },
+  {
+    "text": "Libertad No",
+    "type": "PERSONA",
+    "start": 41534,
+    "end": 41545,
+    "normalized": "libertad no"
+  },
+  {
+    "text": "Regional Guayas",
+    "type": "PERSONA",
+    "start": 41558,
+    "end": 41573,
+    "normalized": "regional guayas"
+  }
+]

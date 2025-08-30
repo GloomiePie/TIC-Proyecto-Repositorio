@@ -1,0 +1,95 @@
+[FORMULA_JUDICIAL]
+- ADMINISTRANDO JUSTICIA EN NOMBRE DEL PUEBLO SOBERANO DEL ECUADOR Y POR AUTORIDAD DE LA CONSTITUCIÓN Y LAS LEYES DE LA REPÚBLICA
+
+[FECHA]
+- 07 de julio de 2018
+- 7 de julio de 2018
+
+[ARTICULO_LEGAL]
+- artículo 622
+- artículo 225
+- artículo 637
+- artículo 635
+- artículo 220
+- artículo 636
+- artículo 70
+- artículo 509
+- artículo 620
+- Art. 455
+- Art. 453
+- Art. 220
+- Art.220
+- art. 32
+- artículo 3
+- Art. 76
+- artículo 5
+- artículo 453
+- artículo 69
+
+[NUMERO_CAUSA]
+- No. 2018
+- No. 123
+- No. 099
+- No 2018
+- No 10
+- NO. 10281
+
+[ORG]
+- UNIDAD JUDICIAL
+- fiscalía
+- Consejo de la Judicatura
+- juzgado
+- tribunal
+- Dirección
+- Ministerio
+- comisión
+- Corte
+- Función Judicial
+- Unidad Antinarcóticos Zona
+- Unidad Antinarcóticos
+- Consejo Nacional Electoral
+- Salarios Básicos Unificados
+
+[PERSONA]
+- Código Orgánico
+- Código Integral Penal
+- Código Orgánico Integral Penal
+- Procedimiento Abreviado
+- Marcelo Vásquez
+- Fiscal Dr
+- Edgar Pacheco
+- Panamericana Norte
+- Control Integrado
+- Centro Regional De Adiestramiento
+- Gustavo Torres
+- Subzona Imbabura
+- Sr Sgos
+- Sr Cbos Edison Arteaga
+- Edison Arteaga
+- Rocío Villa Cuji
+- Milagros Marcano Quintini
+- Señora Fiscal
+- Zapata Gallo Lenin Ramiro
+- Fenómeno Socioeconómico Drogas
+- Unidas Canina Antinarcóticos
+- Fernando Chicaiza
+- Carlos Moya
+- Jefe Carlos Moya
+- María Gallo
+- Era Un
+- Naciones Unidas
+- Tráfico Ilícito
+- Celeridad Procesal
+- Mínima Intervención
+- Personas Adultas
+- Organismo Técnico
+- Justica Derechos Humanos
+
+[OTRO]
+- Resolución No
+- Registro Oficial Suplemento No
+- El Cloruro
+- El Art
+- Disposición Constitucional
+- Derecho Constitucional
+

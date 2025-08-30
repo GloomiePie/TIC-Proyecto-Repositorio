@@ -1,0 +1,116 @@
+[FORMULA_JUDICIAL]
+- ADMINISTRANDO JUSTICIA EN NOMBRE DEL PUEBLO SOBERANO DEL ECUADOR, Y POR AUTORIDAD DE LA CONSTITUCION Y LAS LEYES DE LA REPUBLICA, declaramos a HENRY LAZARO LINO SUAREZ, de nacional
+
+[ARTICULO_LEGAL]
+- artículo 144
+- artículo 39
+- artículo 621
+- artículo 619
+- artículo 614
+- art. 144
+- artículo 615
+- artículo 612
+- artículo 618
+- artículo 609
+- artículo 168
+- artículo 85
+- artículo 250
+- artículo 252
+- artículo 119
+- artículo 253
+- artículo 76
+- artículo 83
+- artículo 8
+- artículo 75
+- artículo 453
+- articulo 454
+- artículo 455
+- artículo 5
+
+[NUMERO_CAUSA]
+- No. 09290-2021
+- Nº 007-09
+- Nº 002-08
+- N° 036-13
+- N° 1646-10
+- Nº 0144-08
+- Nº 069-10
+
+[ORG]
+- TRIBUNAL
+- Unidad Judicial
+- secretaria
+- fiscalía
+- juzgado
+- comisión
+- Corte
+- Función Judicial
+
+[OTRO]
+- Juicio No
+- Garantías Penales
+- Del Pezo Apolinario Jaime
+- Declaraciones Internacionales
+- Estado Constitucional
+- Garantías Judiciales
+- Un Estado Constitucional
+- Registro Oficial Suplemento
+- Registro Oficial
+- Disposiciones Fundamentales
+- Disposiciones Generales
+
+[PERSONA]
+- Carlos Eduardo Flores Iñiguez
+- Código Orgánico Integral Penal
+- Wilson Javier Ávila Leon
+- Kelttya López Burgos
+- Mónica Abad Mariscal
+- Dora Vargas Troncoso
+- Karen Delgado Caguana
+- Fiscal Ab
+- Washington Francisco Suarez Saltos
+- Jessenia Eulalia Lino Suarez
+- Cristhian Hernán Alonzo Tigse
+- Cristina Cordero
+- Al Presentar
+- Marcelo Vélez
+- Andrade Lino Joseline
+- Jesenia Eulalia Lino Suarez
+- Lino Suarez Jesenia Eulalia
+- Eloy Procesado Lino Suarez
+- Henry Lázaro
+- Eduardo Lino Suarez
+- Lino Suarez
+- Lino Suarez Henry Lázaro
+- General Villamil Playa
+- Henry Lázaro Lino Suarez
+- Eduardo Javier Lino Suarez
+- Joseline Andrade
+- Mayra Alejandra Jaramillo
+- Cecilia Lino Suarez
+- Jesenia Eulalia
+- Playas Villamil Barrio Ecuador
+- Cecilia Lino
+- Maira Jaramillo
+- Henry Lino
+- Eduardo Lino
+- Alex Lino
+- Caracol Playas Villamil
+- Jesenia Lino
+- Joselyn Andrade
+- Henry Lino Suarez
+- Villamil Playas Barrio Ecuador
+- Vera Pérez Jose Antonio
+- Villacis Hidalgo William
+- Murillo Medina Jefferson
+- Mina Quintero Marlon
+- Méndez Ortiz Jordany Javier
+- Gustavo Román
+- Lino Suarez Yesenia
+- William Villacis
+- Jordany Méndez
+- Servicio Urbano
+
+[LUGAR]
+- San José
+

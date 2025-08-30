@@ -1,0 +1,116 @@
+[FECHA]
+- 3 de junio de 2024
+- 3 de febrero de 2024
+- 6 de febrero de 2024
+- 25 de noviembre de 2024
+
+[ARTICULO_LEGAL]
+- artículo 144
+- artículo 42
+- artículo 522
+- artículo 555
+- Art. 619
+- artículo 191
+- artículo 76
+- Art. 616 del COIP
+- Art. 612 del COIP
+- Art. 507
+- artículo 455
+- artículo 5
+- Art. 609
+- Art. 610
+- Art. 621
+- Art. 457
+- Art. 453
+- Art. 144
+- Art. 455
+- Art. 70
+- Art. 69
+- artículo 622
+- artículo 628
+- Art. 78
+
+[NUMERO_CAUSA]
+- No. 04334-2024
+- No. 19
+- No. 729
+- No. 10572-2019
+
+[ORG]
+- TRIBUNAL
+- FISCALÍA
+- corte
+- secretaría
+- dirección
+- Consejo de la Judicatura
+- Corte Nacional
+- Unidad Multicompetente
+- Función Judicial
+- Unidad Motorizada
+
+[OTRO]
+- Juicio No
+- La Dra
+- El Dr
+- El Ab
+- El Arcoíris
+- El Art
+- Garantías Penales
+- La Persona
+- El Código Orgánico Integral
+
+[LUGAR]
+- San Gabriel
+
+[PERSONA]
+- Doris Ximena Gaibor Obando
+- Código Orgánico Integral Penal
+- Código Orgánico
+- Iván Antonio Sandoval
+- Nelson Rafael Ramírez Marcano
+- Carlos Eduardo Montilla Campos
+- John Valencia Figueroa
+- Eduardo Montilla Campos
+- Nelson Ramírez
+- Lucía Magdalena Car
+- Ramírez Marcano Nelson
+- Byron Pérez
+- Kevin Sebastián Itás Tirira
+- John Edwin Iguad Miranda
+- Edison Iván Chacón Chamba
+- Carlos Eduardo Montilla Campo
+- Rafael Ramírez
+- Danny Bedon Brusil
+- Jefatura Subzonal
+- Nancy Paguay
+- Édison Eduardo Procel Samaniego
+- Ramírez Marcano
+- Pilar Paguay Paspuel
+- Ciencias Forenses
+- Reime Gregorio Mantilla Torres
+- Wilmer Eduardo Yugcha
+- Servicio Nacional
+- Medicina Legal
+- Ciencias Forense
+- Mantilla Campos Carlos
+- Montilla Campos
+- Montilla Campos Carlos
+- José Magi Lamara
+- Pedro Rolando Morales Vaca
+- Cruz Geovanni
+- Reine Gregorio Montilla Torres
+- Reime Gregorio Montilla Torres
+- Iván Sandoval Villarreal
+- Defensor Público Carchi
+- Don Gregorio
+- Pedro Rolando Vaca Morales
+- Sistema Automático
+- Judicial Ecuatoriano
+- Lucía Magdalena Cargua Ríos
+- Ramírez Marcando Nelson Rafael
+- Montilla Campos Carlos Eduardo
+- Itas Kevin
+- Edison Chacón
+- Dani Bedón Brusil
+- José Maji Lamar
+
