@@ -4,6 +4,10 @@
 
 # Reto - Trabajo de Integración Curricular
 ## Integrantes del proyecto
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74eb6318-86b5-42dc-9078-aaf35e4192e3" width="248" height="308" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/81c6f80a-ffc8-4027-8ec0-82ca3095a616" width="274" height="303" alt="Image 2">
+</p>
 
 ## Problemática
 En el ámbito jurídico ecuatoriano, el acceso y consulta de documentos legales aún depende de métodos tradicionales, lo que dificulta la gestión eficiente del gran volumen de información legal generada constantemente. Con aproximadamente 2,000 jueces emitiendo cerca de 40,000 sentencias mensuales (Consejo de la Judicatura, 2022), se vuelve complejo evaluar adecuadamente la calidad de las decisiones judiciales y su fundamentación. Esta situación retrasa los procesos judiciales, afecta la transparencia y debilita el enfoque positivista del derecho, que exige la aplicación estricta de las normas tal como están escritas. Es urgente adoptar soluciones tecnológicas innovadoras, incluyendo herramientas basadas en inteligencia artificial, que faciliten el acceso, organización y análisis de documentos jurídicos.
