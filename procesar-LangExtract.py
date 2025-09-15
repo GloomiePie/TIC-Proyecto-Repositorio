@@ -7,8 +7,8 @@ from typing import List, Dict, Any
 from langextract.resolver import ResolverParsingError
 from collections import Counter
 
-# ====== CONFIGURA TU API KEY ANTES DE IMPORTAR LANGEXTRACT ======
-os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"  # <-- reemplaza aquí
+# ====== CONFIGURACIÓN DE LA API KEY ======
+os.environ["LANGEXTRACT_API_KEY"] = "API_KEY_AQUI"  
 import langextract as lx
 
 # ====== RUTAS ======
@@ -37,33 +37,89 @@ ARTI_PAT = re.compile(
 
 # ====== PROMPT (frases/spans) ======
 PROMPT = textwrap.dedent("""
+TAREA
 Extrae FRASES relevantes (spans) del texto jurídico y clasifícalas en:
 PERSONA, ORG, ARTICULO_LEGAL, FECHA, OBRA_JURIDICA, DELITO, NUMERO_CAUSA, LUGAR u OTRO.
 
-Devuelve SOLO un JSON válido con objetos:
-{"text":"...", "type":"...", "start":0, "end":10, "normalized":"..."}
+SALIDA (obligatoria)
+Devuelve SOLO un JSON válido que sea un ARREGLO de objetos, sin texto extra:
+[
+  {"text":"...", "type":"...", "start":0, "end":10, "normalized":"..."},
+  ...
+]
+- "start" y "end" son índices 0-based sobre el TEXTO ORIGINAL (start inclusivo, end exclusivo).
+- "text" es el span EXACTO del texto original (sin modificar).
+- "normalized": minúsculas, sin tildes, espacios colapsados a uno, sin saltos de línea.
 
-CRITERIOS GENERALES (aplican a cualquier documento):
-- PERSONA: nombres propios de personas reales (2–4 palabras con Capitalización tipo 'Nombre Apellido'),
-  no todo en mayúsculas, sin sustantivos institucionales. Evita 'El/La/Los/Las' al inicio.
-- ORG: instituciones, órganos, dependencias, organismos, empresas o entidades colectivas.
-  Señales (cualquiera): sustantivo institucional (Unidad, Juzgado, Tribunal, Corte, Ministerio,
-  Consejo, Fiscalía, Defensoría, Instituto, Universidad, Sala, Dirección, Secretaría),
-  sufijos corporativos (S.A., C.A., E.P., Cía., Ltda.), mayúsculas sostenidas, nombre compuesto con 'de' o 'del'
-  que denote entidad ('Ministerio de...', 'Consejo de...'), o presencia de cargos (Subdirector, Director, etc.).
-- ARTICULO_LEGAL: 'Art.' o 'Artículo' seguido de número (tolera saltos de línea). Normaliza 'Art. 232'.
-- FECHA: normaliza a YYYY-MM-DD si es posible.
-- OBRA_JURIDICA: nombres de códigos, leyes, manuales, doctrinas (p.ej., 'Código Orgánico...').
-- NUMERO_CAUSA: 'No.', 'Nº', 'N°' más número (posible guion/año).
-- LUGAR: ciudades, provincias, países.
-- OTRO: lo que no encaje en lo anterior.
+PROCESO (seguir este orden):
+1) Preprocesa SOLO para buscar spans: trata '\n' y '/n' como espacio; colapsa espacios.
+2) Detecta candidatos y clasifícalos aplicando la SIGUIENTE PRECEDENCIA (si entra en una clase de mayor prioridad, NO la reetiquetes como otra):
+   OBRA_JURIDICA > ARTICULO_LEGAL > ORG > FECHA > NUMERO_CAUSA > LUGAR > PERSONA > DELITO > OTRO
+3) La decisión de clase se hace usando el texto ORIGINAL; la normalización se usa SOLO para "normalized".
+4) No devuelvas spans superpuestos salvo que el de mayor precedencia contenga al de menor (elige el de mayor precedencia).
+5) Deduplica por (normalized, type). No repitas entidades idénticas.
 
-REGLAS DE CALIDAD:
-1) Si una frase contiene un sustantivo institucional O un sufijo corporativo → clasifica como ORG (no PERSONA).
-2) No clasifiques frases FULL CAPS (todo en mayúsculas) como PERSONA; suelen ser ORG u OBRA_JURIDICA.
-3) Corrige '\n' o '/n' a un solo espacio dentro de la frase.
-4) Normaliza: minúsculas, sin tildes, espacios colapsados.
-5) No repitas entidades idénticas.
+CRITERIOS POR CLASE
+
+OBRA_JURIDICA (máxima precedencia)
+- Nombres de códigos, leyes, reglamentos, constituciones, estatutos, manuales, guías, tratados, doctrinas, índices, procedimientos.
+- Señales iniciales: ^(Código|Ley|Reglamento|Constitución|Estatuto|Manual|Guía|Tratado|Doctrina|Índice|Procedimiento)\b
+- También títulos compuestos que terminen en “... Penal|... Civil|... Administrativo|... Laboral|... Tributario”.
+- Ej.: "Código Orgánico Integral Penal", "Procedimiento Abreviado", "Índice Analítico".
+- Nunca clasificar como PERSONA.
+
+ARTICULO_LEGAL
+- “Art.” o “Artículo” seguido de número (tolerar espacios/saltos de línea y sufijos: bis, ter, letras).
+- Normaliza a “art. N” (ej.: "Art. 232" → normalized: "art. 232").
+- Acepta rangos “Art. 232-234” como un único span.
+
+ORG
+- Instituciones, órganos, dependencias, empresas o entidades colectivas.
+- Señales como PALABRAS COMPLETAS (no subcadenas): \b(Unidad|Juzgado|Tribunal|Corte|Ministerio|Consejo|Fiscalía|Defensoría|Instituto|Universidad|Sala|Dirección|Secretaría|Procuraduría|Policía|Municipio|Asamblea|Cámara)\b
+- Sufijos corporativos: \b(S\.A\.|C\.A\.|E\.P\.|Cía\.|Ltda\.)\b
+- Nombres compuestos con “de|del|de la|de los” que denoten entidad: “Ministerio de…”, “Consejo de…”.
+- Estructuras “cargo + de + institución” (p.ej., “Director de la Fiscalía…”) → ORG.
+- No hagas match por subcadena (ej.: “Cortez” ≠ “Corte”, “Salas” ≠ “Sala”).
+
+FECHA
+- Detecta fechas en formatos comunes (DD/MM/AAAA, DD-MM-AAAA, “1 de enero de 2020”, “enero 2020”, etc.).
+- Normaliza a YYYY-MM-DD si posible; si no, a “YYYY-MM” o “YYYY”.
+
+NUMERO_CAUSA
+- Patrones: \b(No\.|N°|Nº)\s*\d+([-/]\d+)?\b, o “Causa/Caso” + número similar.
+- Incluir guión/año si aparece: “N° 12345-2022”.
+
+LUGAR
+- Ciudades, provincias, países y divisiones geográficas.
+- Si el nombre del lugar aparece dentro de una ORG (p.ej., “Corte Provincial de Pichincha”), etiqueta SOLO la ORG (no extraigas el lugar por separado).
+
+PERSONA (penúltima precedencia)
+- Nombres de personas reales con forma “Nombre(s) Apellido(s)” (2–4 tokens Capitalizados).
+- Requiere al menos una SEÑAL POSITIVA: que uno de los tokens sea un nombre de pila común (ej.: ana, andrea, camila, carlos, diana, diego, jorge, jose, juan, luis, maria, pablo, paola, sofia, leonardo, pedro; sin tildes para comparar).
+- EXCLUSIONES ESTRICTAS (si se cumple, NO es PERSONA):
+  a) Si el span empieza por: Código, Ley, Reglamento, Constitución, Estatuto, Manual, Guía, Tratado, Doctrina, Índice, Procedimiento, Convenio, Sentencia, Recurso, Casación, Apelación, Audiencia, Incidente.
+  b) Si contiene un SUSTANTIVO INSTITUCIONAL (los de ORG) sin un nombre claro.
+  c) Spans en MAYÚSCULAS SOSTENIDAS (FULL CAPS).
+- Reglas con cargos:
+  - “cargo + nombre” (p.ej., “Juez María López”) → PERSONA.
+  - “cargo + de + institución” sin nombre (p.ej., “Director de la Fiscalía…”) → ORG.
+  - Solo el cargo (“El Juez”, “La Fiscal”) → OTRO.
+
+DELITO
+- Tipos delictivos o descripciones de conducta típicas: homicidio, asesinato, robo, hurto, estafa, peculado, cohecho, concusión, violación, abuso sexual, violencia intrafamiliar, tráfico de drogas, lavado de activos, lesiones, tentativa, etc.
+- Acepta variaciones con adjetivos o complementos (“robo agravado”, “tráfico ilícito de sustancias…”).
+
+OTRO
+- Todo lo que no encaje en las categorías anteriores.
+
+REGLAS DE CALIDAD (obligatorias)
+1) Precedencia fija: OBRA_JURIDICA > ARTICULO_LEGAL > ORG > FECHA > NUMERO_CAUSA > LUGAR > PERSONA > DELITO > OTRO.
+2) ORG usa límites de palabra (\b ... \b). Nunca clasificar por subcadenas.
+3) No etiquetar PERSONA si el span es FULL CAPS o si coincide con disparadores de OBRA_JURIDICA/ORG.
+4) Roles/cargos: “cargo + nombre” → PERSONA; “cargo + de + institución” → ORG; “solo cargo” → OTRO.
+5) “text” = original; “normalized” = minúsculas, sin tildes, espacios simples.
+6) No repitas entidades idénticas (deduplicar por normalized+type).
+7) Devuelve SOLO el JSON (sin comentarios ni explicaciones).
 """)
 
 # ====== EJEMPLOS FEW-SHOT ======
@@ -373,20 +429,18 @@ def _norm(s: str) -> str:
 UPPER_RE = re.compile(r"^[^a-záéíóúñ]*[A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s\.\-]*$")  # casi todo mayúsculas
 
 def looks_like_org(text_norm: str) -> bool:
-    words = text_norm.split()
-    if words and (words[0] in INSTITUTION_HEADS):
-        return True
-    if any(h in text_norm for h in INSTITUTION_HEADS):
+    if any(_contains_word(text_norm, h) for h in INSTITUTION_HEADS):
         return True
     if any(text_norm.endswith(suf) or f" {suf} " in text_norm for suf in CORP_SUFFIXES):
         return True
-    if re.search(r"\b(de|del|de la|de los|de las)\b", text_norm) and any(h in text_norm for h in INSTITUTION_HEADS):
+    if re.search(r"\b(de|del|de la|de los|de las)\b", text_norm) and any(_contains_word(text_norm, h) for h in INSTITUTION_HEADS):
         return True
-    if any(t in text_norm for t in ROLE_TITLES) and any(h in text_norm for h in INSTITUTION_HEADS):
+    if any(t in text_norm for t in ROLE_TITLES) and any(_contains_word(text_norm, h) for h in INSTITUTION_HEADS):
         return True
     if UPPER_RE.match(_clean_ws(sp:=text_norm).replace(".","")) and len(sp) > 4:
         return True
     return False
+
 
 NAME_TOKEN = re.compile(r"^[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+$")
 
@@ -398,10 +452,13 @@ def looks_like_person(text: str) -> bool:
         return False
     if tokens and _norm(tokens[0]) in {"el","la","los","las","en","de","del"}:
         return False
-    if any(_norm(tok) in INSTITUTION_HEADS for tok in tokens):
+    # si contiene cabezas institucionales, no es persona
+    if any(_contains_word(_norm(text), h) for h in INSTITUTION_HEADS):
         return False
     cap_like = sum(1 for t in tokens if NAME_TOKEN.match(t))
-    return cap_like >= 2
+    has_given = any(_norm(t) in FIRST_NAMES for t in tokens)
+    return cap_like >= 2 and has_given
+
 
 def is_legal_work(norm: str) -> bool:
     # Si contiene vocabulario típico de códigos/obras → no es PERSONA
@@ -423,7 +480,7 @@ def _refine_type(span: dict) -> dict:
     norm = _norm(text)
     t    = span.get("type","OTRO")
 
-    # 0) Reglas duras primero (ya las tienes): ART/FECHA/CAUSA/LUGAR...
+    # 0) Reglas duras: ART/FECHA/CAUSA/LUGAR
     if RE_ART.search(text):
         t = "ARTICULO_LEGAL"
     elif RE_DATE_LONG.search(text) or RE_DATE_NUM.search(text):
@@ -433,28 +490,35 @@ def _refine_type(span: dict) -> dict:
     elif RE_LUGAR_HEUR.search(text):
         t = "LUGAR"
 
-    # 1) Si el LLM dijo PERSONA pero la frase es un 'concepto legal', NO es PERSONA
-    if t == "PERSONA" and is_concept_phrase(norm):
-        # si manejas OBRA_JURIDICA como clase, podrías decidir aquí según tokens.
-        t = "OTRO"
+    # 0.1) Si parece OBRA_JURIDICA, dalo por hecho
+    if re.match(r"^(codigo|ley|reglamento|constitucion|estatuto|manual|guia|tratado|doctrina|indice|procedimiento)\b", norm) or is_legal_work(norm):
+        t = "OBRA_JURIDICA"
 
-    # 2) Si es un 'rol/cargo' sin nombre -> no PERSONA
+    # 1) Si vino como PERSONA pero luce a 'concepto/obra', corrige
+    if t == "PERSONA" and is_concept_phrase(norm):
+        t = "OBRA_JURIDICA" if is_legal_work(norm) else "OTRO"
+
+    # 2) Roles sin nombre -> no PERSONA
     if t == "PERSONA" and contains_role_without_name(text, norm):
         t = "ORG" if looks_like_org(norm) else "OTRO"
 
-    # 3) Si parece organización (cabezas institucionales/sufijos/caps), NO PERSONA
+    # 3) Si parece organización -> ORG
     if t == "PERSONA" and looks_like_org(norm):
         t = "ORG"
 
-    # 4) Como última verificación, ¿realmente parece nombre?
+    # 4) Check final: ¿realmente parece nombre?
     if t == "PERSONA" and not looks_like_person(text):
-        t = "ORG" if looks_like_org(norm) else "OTRO"
+        t = "ORG" if looks_like_org(norm) else ("OBRA_JURIDICA" if is_legal_work(norm) else "OTRO")
+
+    # 5) Clases no previstas (p.ej. FORMULA_JUDICIAL de los examples) -> OTRO
+    allowed = {"PERSONA","ORG","ARTICULO_LEGAL","FECHA","OBRA_JURIDICA","DELITO","NUMERO_CAUSA","LUGAR","OTRO"}
+    if t not in allowed:
+        t = "OTRO"
 
     span["text"] = text
     span["normalized"] = norm
     span["type"] = t
     return span
-
 
 def _postprocess_spans(spans: list[dict]) -> list[dict]:
     out, seen = [], set()
@@ -516,25 +580,24 @@ LEGAL_CONCEPT_TOKENS = {
 }
 
 def is_concept_phrase(norm: str) -> bool:
-    """
-    Devuelve True si la frase luce como 'concepto/etiqueta jurídica' (no persona).
-    Criterios:
-    - Todos (o casi todos) los tokens están en el vocabulario legal genérico, o
-    - patrones morfológicos frecuentes en conceptos (terminaciones: -cion/-ciones/-dad/-ales).
-    """
     toks = [t for t in norm.split() if t not in {"de","del","la","las","los","y","en","el","al"}]
     if not toks:
         return False
 
-    known = sum(1 for t in toks if t in LEGAL_CONCEPT_TOKENS)
-    if known >= max(1, len(toks) - 1):  # casi todos conocidos
+    known = sum(1 for t in toks if t in ALL_LEGAL_TOKENS)
+    if known >= max(1, len(toks) - 1):
         return True
 
-    # morfología típica de sustantivos/adjetivos conceptuales
+    # Cabeceras típicas de obras jurídicas => no persona
+    if re.match(r"^(codigo|ley|reglamento|constitucion|estatuto|manual|guia|tratado|doctrina|indice|procedimiento)\b", norm):
+        return True
+
+    # Morfología nominal/adjetival frecuente en conceptos
     if all(t.endswith(("cion","ciones","dad","ales","aria","arias","ario","arios")) for t in toks):
         return True
 
     return False
+
 
 def contains_role_without_name(text: str, norm: str) -> bool:
     """
@@ -564,6 +627,22 @@ LEGAL_WORK_TOKENS = {
     "codigo","organico","integral","penal","procedimiento","indice","analitico",
     "jurista","juzgador","doctrina","manual","tratado","resolucion","registro","oficial","suplemento","garantias"
 }
+
+# === Helpers de coincidencia por palabra completa ===
+def _contains_word(haystack: str, word: str) -> bool:
+    return re.search(r'\b' + re.escape(word) + r'\b', haystack) is not None
+
+# === Lista mínima de nombres de pila comunes (puedes ampliarla) ===
+FIRST_NAMES = {
+    "ana","andrea","camila","carla","carlos","daniel","diana","diego","eduardo","elena",
+    "fernando","francisco","gabriela","javier","jorge","jose","juan","karla","laura",
+    "luis","manuel","maria","mariana","martin","miguel","natalia","paola","pablo",
+    "pedro","ricardo","roberto","rodrigo","sofia","susana","valeria","victor","leonardo"
+}
+
+# Une conceptos legales generales y obras jurídicas
+ALL_LEGAL_TOKENS = set(LEGAL_CONCEPT_TOKENS) | set(LEGAL_WORK_TOKENS)
+
 
 # ====== FALLBACK LOCAL (regex/heurísticas) ======
 MONTHS = {
@@ -624,19 +703,21 @@ def _fallback_mine_phrases(text: str):
         s,e=m.span(); frag=text[s:e]
         spans.append({"text": frag, "type":"ORG","start":s,"end":e,"normalized": _norm(frag)})
 
-    # Personas (heurística mejorada):
-    # - Secuencias de 2–4 palabras capitalizadas
-    # - Rechaza si contiene palabras de ORG
-    # - Requiere que NO sean todas mayúsculas (instituciones suelen venir en mayúsculas)
+    # Personas (heurística endurecida)
     person_re = re.compile(r"\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+(?:\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+){1,3})\b")
     for m in person_re.finditer(text):
-        s,e=m.span(); frag=text[s:e]
-        if ORG_PAT.search(frag):  # contiene pista de organización
+        s, e = m.span()
+        frag = text[s:e]
+        norm_frag = _norm(frag)
+        if ORG_PAT.search(frag):
             continue
-        # Evita cadenas FULL CAPS (probable institución o sigla)
         if frag.upper() == frag and len(frag) > 3:
             continue
-        spans.append({"text": frag, "type":"PERSONA","start":s,"end":e,"normalized": _norm(frag)})
+        if is_legal_work(norm_frag) or is_concept_phrase(norm_frag):
+            continue
+        if not looks_like_person(frag):
+            continue
+        spans.append({"text": frag, "type": "PERSONA", "start": s, "end": e, "normalized": norm_frag})
 
     return spans
 
@@ -650,6 +731,7 @@ def extract_spans(text: str) -> list[dict]:
         "fence_output": True,
         "use_schema_constraints": False,
         "temperature": 0.0,
+        #"model_id": "gpt-5",
         "model_id": "gemini-2.5-flash",
     }
 
